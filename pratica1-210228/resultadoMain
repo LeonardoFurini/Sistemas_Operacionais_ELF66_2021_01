@@ -1,1 +1,7 @@
-Sistemas Operacionais!!
+Sistemas Operacionais!! - Leonardo Basso Furini
+Implementação da funcao de absoluto
+Valor: 23423,243	 ---> Retorno: 23423.242188
+Valor: -21323.22342343	 ---> Retorno: 21323.222656
+Valor: 0.243		 ---> Retorno: 0.243000
+Valor: -0.23423		 ---> Retorno: 0.234230
+Valor: 0		 ---> Retorno: 0.000000

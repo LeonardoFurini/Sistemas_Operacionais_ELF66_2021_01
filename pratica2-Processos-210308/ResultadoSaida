@@ -1,18 +1,18 @@
-Pratica 2 - 210308 \n 
----------- Exercício 1 ---------- \n 
-Ola, sou o processo  2725
-[retval:     0] sou  2726, filho de  2725
-Tchau de  2726!
-Ola, sou o processo  2725
-[retval:  2726] sou  2725, filho de  2709
-Tchau de  2725!
----------- Exercício 2 ---------- \n 
-Tue 09 Mar 2021 12:32:14 AM UTC
-Ola, sou o processo  2727
-[retval:  2728] sou  2727, filho de  2709
-Tchau de  2727!
----------- Exercício 3 ----------s \n 
-No processo  2730 x vale 0
-No processo  2730 x vale 1
-No processo  2729 x vale 0
-No processo  2729 x vale 0
+Pratica 2 - 210308
+---------- Exercício 1 ----------
+Ola, sou o processo  2792
+[retval:     0] sou  2793, filho de  2792
+Tchau de  2793!
+Ola, sou o processo  2792
+[retval:  2793] sou  2792, filho de  2776
+Tchau de  2792!
+---------- Exercício 2 ----------
+Tue 09 Mar 2021 12:36:46 AM UTC
+Ola, sou o processo  2794
+[retval:  2795] sou  2794, filho de  2776
+Tchau de  2794!
+---------- Exercício 3 ----------
+No processo  2797 x vale 0
+No processo  2797 x vale 1
+No processo  2796 x vale 0
+No processo  2796 x vale 0

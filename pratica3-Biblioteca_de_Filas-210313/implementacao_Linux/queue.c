@@ -140,7 +140,7 @@ int check_element_in_queue(queue_t **queue, queue_t *elem)
 
 void queue_print(char *name, queue_t *queue, void print_elem(void *))
 {
-    printf("%s", name);
+    printf("%s [", name);
     if(queue != NULL){
         int i = 0;
         queue_t *aux = queue;
@@ -150,6 +150,7 @@ void queue_print(char *name, queue_t *queue, void print_elem(void *))
             aux = aux->next;
         }
     }
+    printf("]\n");
 }
 
 #endif

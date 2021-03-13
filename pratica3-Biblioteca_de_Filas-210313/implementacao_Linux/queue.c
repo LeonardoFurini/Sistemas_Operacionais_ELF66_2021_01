@@ -3,6 +3,8 @@
 
 #include "queue.h"
 
+//Mudança
+
 int queue_size (queue_t *queue){
     printf("###FUNÇÃO - queue_size\n");
     //Guarda o primeiro elemento da fila

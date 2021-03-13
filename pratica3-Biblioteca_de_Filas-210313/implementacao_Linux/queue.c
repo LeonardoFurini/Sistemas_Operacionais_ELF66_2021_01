@@ -79,40 +79,40 @@ void queue_append(queue_t **queue, queue_t *elem)
 
 queue_t *queue_remove(queue_t **queue, queue_t *elem)
 {
-    printf("###FUNÇÃO - queue_remove\n");
-    if (queue != NULL && elem != NULL && queue[0] != NULL && check_element_in_queue(queue, elem) != 0)
+    if(queue != NULL && elem != NULL && queue[0] != NULL)
     {
-        //Caso o primeiro elemento da fila seja o proprio elemento
-        if (queue[0] == elem)
-        {
-            //Modifico o next para novo elemento
-            queue[0] = elem->next;
-        }
+            queue_t * aux  = queue[0];
+            int flag = 0 ;
+            do{                 // Verifica se o elemento existe na fila;
+                if(aux == elem){
+                    flag++;
+                    break;
+                }
+                aux = aux->next;
+            }while(aux != queue[0]);
 
-        //Caso ele esteja no meio da fila
-        if (elem->next != elem)
-        {
-            elem->next->prev = elem->prev;
-            elem->prev->next = elem->next;
+            if(queue[0] == elem && flag > 0)
+            {
+                queue[0] = elem->next ;
+            }
 
-            elem->next = NULL;
-            elem->prev = NULL;
+            if( flag > 0  && elem->next != elem ){
+                elem->next->prev = elem->prev;
+                elem->prev->next = elem->next;
 
-            return elem;
-        }
-        //Caso o proximo elemento seja ele mesmo, ele é o unico elemento da fila
-        else if (elem->next == elem)
-        {
-            queue[0] = NULL;
-            elem->next = NULL;
-            elem->prev = NULL;
-            return elem;
-        }
-        else
-        {
-            return NULL;
-        }
-    }
+                elem->next = NULL;
+                elem->prev = NULL;
+
+                return elem;
+            }else if(flag > 0 && elem->next == elem){
+                    queue[0] = NULL ;
+                    elem->next = NULL;
+                    elem->prev = NULL;
+                    return elem;
+            }else
+                return NULL;
+    }else
+        return NULL;
 }
 
 //Procura se o elemento está na fila
@@ -123,7 +123,7 @@ int check_element_in_queue(queue_t **queue, queue_t *elem)
     printf("###FUNÇÃO - check_element_in_queue\n");
     //Descobrimos o tamanho da fila
     int counter = 0, flag = 0;
-    int size_queue = queue_size((queue_t*) &queue);
+    int size_queue = queue_size((queue_t*) queue);
     queue_t *aux = queue[0];
     while (counter < size_queue)
     {

@@ -17,7 +17,8 @@ int queue_size(queue_t *queue)
         }
         return size;
     }
-    else{
+    else
+    {
         return 0;
     }
 }
@@ -79,54 +80,38 @@ void queue_append(queue_t **queue, queue_t *elem)
 queue_t *queue_remove(queue_t **queue, queue_t *elem)
 {
     printf("###FUNÇÃO - queue_remove\n");
-    // - a fila deve existir
-    if (!queue)
+    if (queue != NULL && elem != NULL && queue[0] != NULL && check_element_in_queue(queue, elem) != 0)
     {
-        printf("###ERRO - A fila não existe\n");
-        return NULL;
-    }
-    // - a fila nao deve estar vazia
-    if (queue_size(queue) == 0)
-    {
-        printf("###ERRO - A fila está vazia\n");
-        return NULL;
-    }
-    // - o elemento deve existir
-    if (check_element_in_queue(queue, elem) == 0)
-    {
-        printf("###ERRO - O elemento nao foi encontrado na fila\n");
-        return NULL;
-    }
+        //Caso o primeiro elemento da fila seja o proprio elemento
+        if (queue[0] == elem)
+        {
+            //Modifico o next para novo elemento
+            queue[0] = elem->next;
+        }
 
-    //Caso o primeiro elemento da fila seja o proprio elemento
-    if (queue[0] == elem)
-    {
-        //Modifico o next para novo elemento
-        queue[0] = elem->next;
-    }
+        //Caso ele esteja no meio da fila
+        if (elem->next != elem)
+        {
+            elem->next->prev = elem->prev;
+            elem->prev->next = elem->next;
 
-    //Caso ele esteja no meio da fila
-    if (elem->next != elem)
-    {
-        elem->next->prev = elem->prev;
-        elem->prev->next = elem->next;
+            elem->next = NULL;
+            elem->prev = NULL;
 
-        elem->next = NULL;
-        elem->prev = NULL;
-
-        return elem;
-    }
-    //Caso o proximo elemento seja ele mesmo, ele é o unico elemento da fila
-    else if (elem->next == elem)
-    {
-        queue[0] = NULL;
-        elem->next = NULL;
-        elem->prev = NULL;
-        return elem;
-    }
-    else
-    {
-        return NULL;
+            return elem;
+        }
+        //Caso o proximo elemento seja ele mesmo, ele é o unico elemento da fila
+        else if (elem->next == elem)
+        {
+            queue[0] = NULL;
+            elem->next = NULL;
+            elem->prev = NULL;
+            return elem;
+        }
+        else
+        {
+            return NULL;
+        }
     }
 }
 

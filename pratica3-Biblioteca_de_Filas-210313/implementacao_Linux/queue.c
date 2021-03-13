@@ -3,25 +3,23 @@
 
 #include "queue.h"
 
-//Mudançaa
-
 int queue_size(queue_t *queue)
 {
     printf("###FUNÇÃO - queue_size\n");
-
-    //Caso a esteja vazio retorne 0
-    if (queue == NULL)
-        return 0;
-
-    //Guarda o primeiro elemento da fila
-    int counter = 1;
-    queue_t *temp = queue;
-    while (queue != temp)
+    if (queue != NULL)
     {
-        counter++;
-        temp = temp->next;
+        queue_t *aux = queue;
+        int size = 1;
+        while (aux->next != queue)
+        {
+            aux = aux->next;
+            size++;
+        }
+        return size;
     }
-    return counter;
+    else{
+        return 0;
+    }
 }
 
 void queue_append(queue_t **queue, queue_t *elem)
@@ -155,11 +153,12 @@ int check_element_in_queue(queue_t **queue, queue_t *elem)
     return flag;
 }
 
-void queue_print (char *name, queue_t *queue, void print_elem (void*) )
+void queue_print(char *name, queue_t *queue, void print_elem(void *))
 {
     int i = 0;
-    queue_t * aux = queue;
-    for(i = 0 ; i < queue_size(queue) ; i++){
+    queue_t *aux = queue;
+    for (i = 0; i < queue_size(queue); i++)
+    {
         print_elem(aux);
         aux = aux->next;
     }

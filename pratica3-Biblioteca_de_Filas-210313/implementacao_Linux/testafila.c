@@ -44,7 +44,7 @@ void print_elem (void *ptr)
    if (!elem)
       return ;
 
-   elem->prev ? printf ("%d", elem->prev->id) : printf ("*") ;
+   elem->prev ? printf (" %d", elem->prev->id) : printf ("*") ;
    printf ("<%d>", elem->id) ;
    elem->next ? printf ("%d", elem->next->id) : printf ("*") ;
 }

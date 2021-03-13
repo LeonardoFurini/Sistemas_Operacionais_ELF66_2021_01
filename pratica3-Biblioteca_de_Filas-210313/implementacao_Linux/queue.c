@@ -1,21 +1,19 @@
+#ifndef QUEUE_INCLUDED
+#define QUEUE_INCLUDED
 
-
-
-
-#pragma once
 #include "queue.h"
 
 int queue_size (queue_t *queue){
     printf("###FUNÇÃO - queue_size\n");
     //Guarda o primeiro elemento da fila
-    int count = 0;
+    int counter = 0;
     queue_t *firstElement = queue;
     queue_t *temp = firstElement->next;
     while(firstElement != temp){
-        count++;
+        counter++;
         temp = firstElement->next;
     }
-    return count;
+    return counter;
 }
 
 void queue_append (queue_t **queue, queue_t *elem){
@@ -29,13 +27,13 @@ void queue_append (queue_t **queue, queue_t *elem){
     //--O elemento deve existir
     if(!elem){
         printf("###ERRO - O elemento não existe\n");
-        return;
+        return 0;
     }
     //--O elemento nao pode pertencer a outra fila
     //Para isso devemos olhar o PREV e NEXT do elemento
     if(elem->next != NULL || elem->prev != NULL){
         printf("###ERRO - O elemento pertence a outra fila\n");
-        return;
+        return 0;
     }
     
     //O último elemento será o prev de queue
@@ -97,8 +95,10 @@ int check_element_in_queue(queue_t **queue, queue_t *elem){
         if(temp == elem){
             return 1;
         }
-        count++;
+        counter++;
         temp = temp->next;
     }
     return 0;
 }
+
+#endif

@@ -330,7 +330,7 @@ int main (int argc, char **argv, char **envp)
       queue_append ((queue_t**) &fila0, (queue_t*) &item[i]) ;
 
    // imprimir a fila
-   printf ("Saida esperada: [9<0>1 0<1>2 1<2>3 2<3>4 3<4>5 4<5>6 5<6>7 6<7>8 7<8>9 8<9>0 ]\n") ;
+   printf ("Saida esperada: [9<0>1 0<1>2 1<2>3 2<3>4 3<4>5 4<5>6 5<6>7 6<7>8 7<8>9 8<9>0  ]\n") ;
    queue_print ("Saida gerada  ", (queue_t*) fila0, print_elem) ;
 
    printf ("Testes concluidos!!!\n") ;

@@ -5,7 +5,7 @@
 
 int queue_size(queue_t *queue)
 {
-    printf("###FUNÇÃO - queue_size\n");
+    //printf("###FUNÇÃO - queue_size\n");
     if (queue != NULL)
     {
         queue_t *aux = queue;
@@ -25,7 +25,7 @@ int queue_size(queue_t *queue)
 
 void queue_append(queue_t **queue, queue_t *elem)
 {
-    printf("###FUNÇÃO - queue_append\n");
+    //printf("###FUNÇÃO - queue_append\n");
 
     if (&queue != NULL && elem != NULL && elem->next == NULL)
     {
@@ -120,7 +120,7 @@ queue_t *queue_remove(queue_t **queue, queue_t *elem)
 //Retorno 0 : O elemento não foi encontrado na fila
 int check_element_in_queue(queue_t **queue, queue_t *elem)
 {
-    printf("###FUNÇÃO - check_element_in_queue\n");
+    //printf("###FUNÇÃO - check_element_in_queue\n");
     //Descobrimos o tamanho da fila
     int counter = 0, flag = 0;
     int size_queue = queue_size((queue_t*) queue);

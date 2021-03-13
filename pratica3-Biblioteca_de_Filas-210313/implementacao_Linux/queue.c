@@ -3,7 +3,7 @@
 
 #include "queue.h"
 
-//Mudança
+//Mudançaa
 
 int queue_size (queue_t *queue){
     printf("###FUNÇÃO - queue_size\n");

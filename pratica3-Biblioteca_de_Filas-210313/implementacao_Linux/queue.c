@@ -123,10 +123,11 @@ int check_element_in_queue(queue_t **queue, queue_t *elem)
     printf("###FUNÇÃO - check_element_in_queue\n");
     //Descobrimos o tamanho da fila
     int counter = 0, flag = 0;
-    int size_queue = queue_size(queue);
+    int size_queue = queue_size((queue_t*) queue);
     queue_t *aux = queue[0];
     while (counter < size_queue)
     {
+        
         if (aux == elem)
         {
             flag++;

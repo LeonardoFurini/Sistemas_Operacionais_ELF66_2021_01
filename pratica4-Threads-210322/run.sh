@@ -9,12 +9,12 @@ echo "Pratica 2 - 210308" > ResultadoSaida
 
 
 echo "---------- Exercício 1 ----------" >> ResultadoSaida
-./thread-create | sed -e "s/^/$(date +%s) /" >> ResultadoSaida
+./thread-create | ts "%.S" >> ResultadoSaida
 
 echo "---------- Exercício 2 ----------" >> ResultadoSaida
-./thread-join | sed -e "s/^/$(date +%s) /" >> ResultadoSaida
+./thread-join | ts "%.S" >> ResultadoSaida
 
 echo "---------- Exercício 3 ----------" >> ResultadoSaida
-./thread-print | sed -e "s/^/$(date +%s) /" >> ResultadoSaida
+./thread-print | ts "%.S" >> ResultadoSaida
 
 

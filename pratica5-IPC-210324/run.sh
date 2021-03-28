@@ -5,6 +5,8 @@ gcc -Wall shared-mem.c -o shared-mem -lrt
 gcc -Wall mqueue-send.c -o mqueue-send -lrt
 gcc -Wall mqueue-recv.c -o mqueue-recv -lrt
 gcc -Wall process-comunication-shared-mem.c -o process-comunication-shared-mem -lrt
+gcc -Wall process-comunication-queue.c -o process-comunication-queue -lrt
+
 
 echo "Pratica 2 - 210308" > ResultadoSaida
 

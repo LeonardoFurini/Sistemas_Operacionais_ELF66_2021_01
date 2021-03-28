@@ -41,8 +41,7 @@ int main ()
     //Inicia a variável compartilhada com 1
    (*ptr) = 1 ;
 
-   int retval, x ;
-   x = 0 ; 
+   int retval;
    retval = fork () ; 
    
    //O algoritmo de cara já cria um novo processo filho	  

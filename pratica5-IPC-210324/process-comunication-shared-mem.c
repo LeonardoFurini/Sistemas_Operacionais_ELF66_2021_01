@@ -41,32 +41,13 @@ int main ()
     //Inicia a variável compartilhada com 1
    (*ptr) = 1 ;
 
-
-   
-   /*
-   for (;;) {
-      // Passo 5: escreve um valor aleatorio na area compartilhada
-      value = random () % 1000 ;
-      (*ptr) = value ;
-      printf ("Wrote value %i\n", value) ;
-      sleep (1);
-      
-      // Passo 5: le e imprime o conteudo da area compartilhada
-      value = (*ptr) ;
-      printf("Read value %i\n", value);
-      sleep (1) ;
-   }
-   */
-
-
    int retval, x ;
    x = 0 ; 
    retval = fork () ; 
    
    //O algoritmo de cara já cria um novo processo filho	  
-   printf ("No processo %5d x vale %d\n", getpid(), x) ;
+   //printf ("No processo %5d x vale %d\n", getpid(), x) ;
  
-
    //Em caso de erro ao criar novo processo, temos que o programa é finalizado
    if ( retval < 0 )
    {
@@ -102,10 +83,6 @@ int main ()
             value = (*ptr) ;
         }
       }
- 
-   //ao finalizar o processo filho, temos que a variável x foi incrementada somente para ele.
-   //Isso nos mostra que as variávei entre processos são independentes
-   printf ("No processo %5d x vale %d\n", getpid(), x) ;
  
    exit (0) ;
 }

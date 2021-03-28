@@ -1,4 +1,4 @@
-// Arquivo shmem.c: cria e usa uma área de memória compartilhada.
+// Arquivo shmem.c: cria e usa uma ï¿½rea de memï¿½ria compartilhada.
 // Em Linux, compile usando: gcc -o shared-mem shared-mem.c -lrt
 
 #include <stdio.h>
@@ -6,6 +6,8 @@
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <sys/mman.h>
+#include <unistd.h>
+
 
 int main (int argc, char *argv[])
 {

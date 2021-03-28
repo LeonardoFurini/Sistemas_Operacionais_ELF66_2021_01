@@ -1,16 +1,16 @@
 #!/bin/bash
 
 #Executa os 3 algotimos de exemplo
-gcc -Wall share-mem.c -o share-mem -lrt
+gcc -Wall shared-mem.c -o shared-mem -lrt
 gcc -Wall mqueue-send.c -o mqueue-send -lrt
 gcc -Wall mqueue-recv.c -o mqueue-recv -lrt
-gcc -Wall process-comunication-share-mem.c -o process-comunication-share-mem -lrt
+gcc -Wall process-comunication-shared-mem.c -o process-comunication-shared-mem -lrt
 
 echo "Pratica 2 - 210308" > ResultadoSaida
 
 
-echo "---------- share-mem ----------" >> ResultadoSaida
-./share-mem | ts "%.S" >> ResultadoSaida
+echo "---------- shared-mem ----------" >> ResultadoSaida
+./shared-mem | ts "%.S" >> ResultadoSaida
 
 echo "---------- mqueue-send ----------" >> ResultadoSaida
 ./mqueue-send | ts "%.S" >> ResultadoSaida

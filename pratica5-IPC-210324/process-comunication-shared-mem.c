@@ -18,20 +18,20 @@ int main ()
 {
     int fd, value, *ptr;
    
-   // Passos 1 a 3: abre/cria uma area de memoria compartilhada
+   // Abre/cria uma area de memoria compartilhada
    fd = shm_open("/sharedmem", O_RDWR|O_CREAT, S_IRUSR|S_IWUSR);
    if(fd == -1) {
       perror ("shm_open");
       exit (1) ;
    }
 
-   // Passos 1 a 3: ajusta o tamanho da area compartilhada
+   //Ajusta o tamanho da area compartilhada
    if (ftruncate(fd, sizeof(value)) == -1) {
       perror ("ftruncate");
       exit (1) ;
    }
    
-   // Passos 2 a 4: mapeia a area no espaco de enderecamento deste processo
+   // Mapeia a area no espaco de enderecamento deste processo
    ptr = mmap(NULL, sizeof(value), PROT_READ|PROT_WRITE, MAP_SHARED, fd, 0);
    if(ptr == MAP_FAILED) {
       perror ("mmap");

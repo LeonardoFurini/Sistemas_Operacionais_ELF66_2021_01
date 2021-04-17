@@ -11,6 +11,8 @@ O algoritmo aqui escrito foi baseado no fork-print.c e no shared-mem.c
 
 //Compartilhamento por fila
 #include <mqueue.h>
+#include <sys/stat.h>
+
 
 #define QUEUE "/my_queue"
 

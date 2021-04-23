@@ -3,7 +3,7 @@
 #include <assert.h>
 #include "ppos.h"
 #include "ppos_data.h"
-#define DEBUG
+#define DEBUG   0
 #define STACKSIZE 32768	
 #define N 100
 
@@ -65,9 +65,9 @@ int task_create (task_t *task, void (*start_routine)(void *),  void *arg) {
 
     makecontext (&task->context, (void*)(*start_routine), 1, arg);
 
-    // #ifdef DEBUG
-    // printf ("task_create: criou tarefa %d\n", task->id) ;
-    // #endif
+    if(DEBUG){
+        printf ("task_create: criou tarefa %d\n", task->id) ;
+    }
    return task_id();     
 }
 
@@ -77,17 +77,17 @@ int task_switch (task_t *task){
     ContextAtual = task;
     (ContextoAntigo)->status = 1;
     (ContextAtual)->status = 0;
-    // #ifdef DEBUG
-    // printf ("task_switch: trocando contexto %d para %d\n",ContextoAntigo->id, task->id) ;
-    // #endif
+    if(DEBUG){
+        printf ("task_switch: trocando contexto %d para %d\n",ContextoAntigo->id, task->id) ;
+    }
     swapcontext (&ContextoAntigo->context,&task->context) ; 
     return task_id(); 
 }
 
 void task_exit (int exit_code){
-    // #ifdef DEBUG
-    // printf ("task_exit: tarefa %d\n sendo encerrada", ContextAtual->id) ;
-    // #endif
+    if(DEBUG){
+        printf ("task_exit: tarefa %d\n sendo encerrada", ContextAtual->id) ;
+    }
     (ContextAtual)->status = 2;
     task_switch(&ContextMain);
 }
@@ -99,4 +99,3 @@ int task_id (){
 void task_yield(){
    dispatcher(tarefasUser);
 }
-

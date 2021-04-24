@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
+#include "queue/queue.c"
 #include "ppos.h"
 #include "ppos_data.h"
+
 #define DEBUG   0
 #define STACKSIZE 32768	
 #define N 100
@@ -97,5 +99,5 @@ int task_id (){
 }
 
 void task_yield(){
-   dispatcher(tarefasUser);
+  //dispatcher(tarefasUser);
 }

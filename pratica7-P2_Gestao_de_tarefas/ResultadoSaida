@@ -1,0 +1,3022 @@
+Pratica 7 -  Gestao de Tarefas
+---------- TASK 1 ----------
+41.785259 main: inicio
+41.785447     Ping: inicio
+41.785660     Ping: 0
+41.785743         Pong: inicio
+41.785823         Pong: 0
+41.785948     Ping: 1
+41.786032         Pong: 1
+41.786114     Ping: 2
+41.786195         Pong: 2
+41.786277     Ping: 3
+41.786342         Pong: 3
+41.786404     Ping: fim
+41.786466         Pong: fim
+41.786527 main: fim
+---------- TASK 2 ----------
+41.979106 main: inicio
+41.979413 Iniciei  tarefa     1
+41.979505 Iniciei  tarefa     2
+41.979588 Iniciei  tarefa     3
+41.979668 Iniciei  tarefa     4
+41.979748 Iniciei  tarefa     5
+41.979829 Iniciei  tarefa     6
+41.979909 Iniciei  tarefa     7
+41.979989 Iniciei  tarefa     8
+41.980068 Iniciei  tarefa     9
+41.980149 Iniciei  tarefa    10
+41.980268 Iniciei  tarefa    11
+41.980355 Iniciei  tarefa    12
+41.980435 Iniciei  tarefa    13
+41.980515 Iniciei  tarefa    14
+41.980596 Iniciei  tarefa    15
+41.980675 Iniciei  tarefa    16
+41.980755 Iniciei  tarefa    17
+41.980835 Iniciei  tarefa    18
+41.980915 Iniciei  tarefa    19
+41.980996 Iniciei  tarefa    20
+41.981076 Iniciei  tarefa    21
+41.981155 Iniciei  tarefa    22
+41.981280 Iniciei  tarefa    23
+41.981363 Iniciei  tarefa    24
+41.981444 Iniciei  tarefa    25
+41.981524 Iniciei  tarefa    26
+41.981604 Iniciei  tarefa    27
+41.981685 Iniciei  tarefa    28
+41.981891 Iniciei  tarefa    29
+41.981974 Iniciei  tarefa    30
+41.982054 Iniciei  tarefa    31
+41.982135 Iniciei  tarefa    32
+41.982255 Iniciei  tarefa    33
+41.982337 Iniciei  tarefa    34
+41.982418 Iniciei  tarefa    35
+41.982500 Iniciei  tarefa    36
+41.982579 Iniciei  tarefa    37
+41.982659 Iniciei  tarefa    38
+41.982738 Iniciei  tarefa    39
+41.982818 Iniciei  tarefa    40
+41.982897 Iniciei  tarefa    41
+41.982977 Iniciei  tarefa    42
+41.983056 Iniciei  tarefa    43
+41.983136 Iniciei  tarefa    44
+41.983258 Iniciei  tarefa    45
+41.983339 Iniciei  tarefa    46
+41.983420 Iniciei  tarefa    47
+41.983500 Iniciei  tarefa    48
+41.983581 Iniciei  tarefa    49
+41.983661 Iniciei  tarefa    50
+41.983740 Iniciei  tarefa    51
+41.983821 Iniciei  tarefa    52
+41.983901 Iniciei  tarefa    53
+41.983981 Iniciei  tarefa    54
+41.984062 Iniciei  tarefa    55
+41.984180 Iniciei  tarefa    56
+41.984265 Iniciei  tarefa    57
+41.984347 Iniciei  tarefa    58
+41.984428 Iniciei  tarefa    59
+41.984509 Iniciei  tarefa    60
+41.984589 Iniciei  tarefa    61
+41.984668 Iniciei  tarefa    62
+41.984749 Iniciei  tarefa    63
+41.984829 Iniciei  tarefa    64
+41.984909 Iniciei  tarefa    65
+41.984990 Iniciei  tarefa    66
+41.985170 Iniciei  tarefa    67
+41.985252 Iniciei  tarefa    68
+41.985333 Iniciei  tarefa    69
+41.985415 Iniciei  tarefa    70
+41.985495 Iniciei  tarefa    71
+41.985575 Iniciei  tarefa    72
+41.985760 Iniciei  tarefa    73
+41.985843 Iniciei  tarefa    74
+41.985923 Iniciei  tarefa    75
+41.986004 Iniciei  tarefa    76
+41.986121 Iniciei  tarefa    77
+41.986207 Iniciei  tarefa    78
+41.986288 Iniciei  tarefa    79
+41.986369 Iniciei  tarefa    80
+41.986450 Iniciei  tarefa    81
+41.986531 Iniciei  tarefa    82
+41.986612 Iniciei  tarefa    83
+41.986692 Iniciei  tarefa    84
+41.986772 Iniciei  tarefa    85
+41.986853 Iniciei  tarefa    86
+41.986933 Iniciei  tarefa    87
+41.987014 Iniciei  tarefa    88
+41.987136 Iniciei  tarefa    89
+41.987221 Iniciei  tarefa    90
+41.987302 Iniciei  tarefa    91
+41.987383 Iniciei  tarefa    92
+41.987464 Iniciei  tarefa    93
+41.987544 Iniciei  tarefa    94
+41.987625 Iniciei  tarefa    95
+41.987706 Iniciei  tarefa    96
+41.987786 Iniciei  tarefa    97
+41.987867 Iniciei  tarefa    98
+41.987947 Iniciei  tarefa    99
+41.988029 Iniciei  tarefa   100
+41.988149 Iniciei  tarefa   101
+41.988231 Iniciei  tarefa   102
+41.988311 Iniciei  tarefa   103
+41.988392 Iniciei  tarefa   104
+41.988473 Iniciei  tarefa   105
+41.988555 Iniciei  tarefa   106
+41.988635 Iniciei  tarefa   107
+41.988716 Iniciei  tarefa   108
+41.988798 Iniciei  tarefa   109
+41.988879 Iniciei  tarefa   110
+41.988960 Iniciei  tarefa   111
+41.989080 Iniciei  tarefa   112
+41.989163 Iniciei  tarefa   113
+41.989245 Iniciei  tarefa   114
+41.989350 Iniciei  tarefa   115
+41.989433 Iniciei  tarefa   116
+41.989514 Iniciei  tarefa   117
+41.989711 Iniciei  tarefa   118
+41.989794 Iniciei  tarefa   119
+41.989875 Iniciei  tarefa   120
+41.989956 Iniciei  tarefa   121
+41.990076 Iniciei  tarefa   122
+41.990159 Iniciei  tarefa   123
+41.990241 Iniciei  tarefa   124
+41.990322 Iniciei  tarefa   125
+41.990403 Iniciei  tarefa   126
+41.990484 Iniciei  tarefa   127
+41.990683 Iniciei  tarefa   128
+41.990767 Iniciei  tarefa   129
+41.990848 Iniciei  tarefa   130
+41.990929 Iniciei  tarefa   131
+41.991055 Iniciei  tarefa   132
+41.991138 Iniciei  tarefa   133
+41.991220 Iniciei  tarefa   134
+41.991301 Iniciei  tarefa   135
+41.991382 Iniciei  tarefa   136
+41.991464 Iniciei  tarefa   137
+41.991544 Iniciei  tarefa   138
+41.991625 Iniciei  tarefa   139
+41.991706 Iniciei  tarefa   140
+41.991787 Iniciei  tarefa   141
+41.991868 Iniciei  tarefa   142
+41.991987 Iniciei  tarefa   143
+41.992073 Iniciei  tarefa   144
+41.992154 Iniciei  tarefa   145
+41.992236 Iniciei  tarefa   146
+41.992318 Iniciei  tarefa   147
+41.992399 Iniciei  tarefa   148
+41.992481 Iniciei  tarefa   149
+41.992562 Iniciei  tarefa   150
+41.992643 Iniciei  tarefa   151
+41.992725 Iniciei  tarefa   152
+41.992806 Iniciei  tarefa   153
+41.992887 Iniciei  tarefa   154
+41.993009 Iniciei  tarefa   155
+41.993092 Iniciei  tarefa   156
+41.993173 Iniciei  tarefa   157
+41.993255 Iniciei  tarefa   158
+41.993337 Iniciei  tarefa   159
+41.993418 Iniciei  tarefa   160
+41.993595 Iniciei  tarefa   161
+41.993679 Iniciei  tarefa   162
+41.993761 Iniciei  tarefa   163
+41.993842 Iniciei  tarefa   164
+41.993964 Iniciei  tarefa   165
+41.994049 Iniciei  tarefa   166
+41.994131 Iniciei  tarefa   167
+41.994212 Iniciei  tarefa   168
+41.994294 Iniciei  tarefa   169
+41.994377 Iniciei  tarefa   170
+41.994458 Iniciei  tarefa   171
+41.994540 Iniciei  tarefa   172
+41.994622 Iniciei  tarefa   173
+41.994704 Iniciei  tarefa   174
+41.994786 Iniciei  tarefa   175
+41.994966 Iniciei  tarefa   176
+41.995055 Iniciei  tarefa   177
+41.995143 Iniciei  tarefa   178
+41.995227 Iniciei  tarefa   179
+41.995315 Iniciei  tarefa   180
+41.995398 Iniciei  tarefa   181
+41.995475 Iniciei  tarefa   182
+41.995539 Iniciei  tarefa   183
+41.995600 Iniciei  tarefa   184
+41.995662 Iniciei  tarefa   185
+41.995724 Iniciei  tarefa   186
+41.995786 Iniciei  tarefa   187
+41.995945 Iniciei  tarefa   188
+41.996038 Iniciei  tarefa   189
+41.996129 Iniciei  tarefa   190
+41.996194 Iniciei  tarefa   191
+41.996257 Iniciei  tarefa   192
+41.996318 Iniciei  tarefa   193
+41.996380 Iniciei  tarefa   194
+41.996441 Iniciei  tarefa   195
+41.996503 Iniciei  tarefa   196
+41.996565 Iniciei  tarefa   197
+41.996627 Iniciei  tarefa   198
+41.996689 Iniciei  tarefa   199
+41.996750 Iniciei  tarefa   200
+41.996812 Iniciei  tarefa   201
+41.996952 Iniciei  tarefa   202
+41.997033 Iniciei  tarefa   203
+41.997113 Iniciei  tarefa   204
+41.997194 Iniciei  tarefa   205
+41.997274 Iniciei  tarefa   206
+41.997443 Iniciei  tarefa   207
+41.997533 Iniciei  tarefa   208
+41.997614 Iniciei  tarefa   209
+41.997694 Iniciei  tarefa   210
+41.997774 Iniciei  tarefa   211
+41.997905 Iniciei  tarefa   212
+41.997987 Iniciei  tarefa   213
+41.998068 Iniciei  tarefa   214
+41.998150 Iniciei  tarefa   215
+41.998231 Iniciei  tarefa   216
+41.998312 Iniciei  tarefa   217
+41.998394 Iniciei  tarefa   218
+41.998475 Iniciei  tarefa   219
+41.998555 Iniciei  tarefa   220
+41.998636 Iniciei  tarefa   221
+41.998717 Iniciei  tarefa   222
+41.998865 Iniciei  tarefa   223
+41.998951 Iniciei  tarefa   224
+41.999033 Iniciei  tarefa   225
+41.999115 Iniciei  tarefa   226
+41.999196 Iniciei  tarefa   227
+41.999277 Iniciei  tarefa   228
+41.999358 Iniciei  tarefa   229
+41.999439 Iniciei  tarefa   230
+41.999520 Iniciei  tarefa   231
+41.999601 Iniciei  tarefa   232
+41.999682 Iniciei  tarefa   233
+41.999816 Iniciei  tarefa   234
+41.999900 Iniciei  tarefa   235
+41.999981 Iniciei  tarefa   236
+42.000063 Iniciei  tarefa   237
+42.000145 Iniciei  tarefa   238
+42.000226 Iniciei  tarefa   239
+42.000306 Iniciei  tarefa   240
+42.000388 Iniciei  tarefa   241
+42.000468 Iniciei  tarefa   242
+42.000571 Iniciei  tarefa   243
+42.000654 Iniciei  tarefa   244
+42.000794 Iniciei  tarefa   245
+42.000877 Iniciei  tarefa   246
+42.000954 Iniciei  tarefa   247
+42.001030 Iniciei  tarefa   248
+42.001105 Iniciei  tarefa   249
+42.001181 Iniciei  tarefa   250
+42.001256 Iniciei  tarefa   251
+42.001404 Iniciei  tarefa   252
+42.001466 Iniciei  tarefa   253
+42.001528 Iniciei  tarefa   254
+42.001590 Iniciei  tarefa   255
+42.001651 Iniciei  tarefa   256
+42.001779 Iniciei  tarefa   257
+42.001867 Iniciei  tarefa   258
+42.001953 Iniciei  tarefa   259
+42.002018 Iniciei  tarefa   260
+42.002080 Iniciei  tarefa   261
+42.002141 Iniciei  tarefa   262
+42.002202 Iniciei  tarefa   263
+42.002264 Iniciei  tarefa   264
+42.002325 Iniciei  tarefa   265
+42.002387 Iniciei  tarefa   266
+42.002448 Iniciei  tarefa   267
+42.002509 Iniciei  tarefa   268
+42.002571 Iniciei  tarefa   269
+42.002632 Iniciei  tarefa   270
+42.002760 Iniciei  tarefa   271
+42.002844 Iniciei  tarefa   272
+42.002925 Iniciei  tarefa   273
+42.003005 Iniciei  tarefa   274
+42.003085 Iniciei  tarefa   275
+42.003166 Iniciei  tarefa   276
+42.003246 Iniciei  tarefa   277
+42.003326 Iniciei  tarefa   278
+42.003406 Iniciei  tarefa   279
+42.003486 Iniciei  tarefa   280
+42.003567 Iniciei  tarefa   281
+42.003705 Iniciei  tarefa   282
+42.003793 Iniciei  tarefa   283
+42.003874 Iniciei  tarefa   284
+42.003955 Iniciei  tarefa   285
+42.004036 Iniciei  tarefa   286
+42.004117 Iniciei  tarefa   287
+42.004197 Iniciei  tarefa   288
+42.004277 Iniciei  tarefa   289
+42.004358 Iniciei  tarefa   290
+42.004438 Iniciei  tarefa   291
+42.004519 Iniciei  tarefa   292
+42.004599 Iniciei  tarefa   293
+42.004736 Iniciei  tarefa   294
+42.004818 Iniciei  tarefa   295
+42.004899 Iniciei  tarefa   296
+42.004983 Iniciei  tarefa   297
+42.005068 Iniciei  tarefa   298
+42.005151 Iniciei  tarefa   299
+42.005334 Iniciei  tarefa   300
+42.005416 Iniciei  tarefa   301
+42.005495 Iniciei  tarefa   302
+42.005574 Iniciei  tarefa   303
+42.005760 Iniciei  tarefa   304
+42.005842 Iniciei  tarefa   305
+42.005922 Iniciei  tarefa   306
+42.006001 Iniciei  tarefa   307
+42.006081 Iniciei  tarefa   308
+42.006160 Iniciei  tarefa   309
+42.006240 Iniciei  tarefa   310
+42.006319 Iniciei  tarefa   311
+42.006398 Iniciei  tarefa   312
+42.006478 Iniciei  tarefa   313
+42.006557 Iniciei  tarefa   314
+42.006694 Iniciei  tarefa   315
+42.006775 Iniciei  tarefa   316
+42.006855 Iniciei  tarefa   317
+42.006935 Iniciei  tarefa   318
+42.007014 Iniciei  tarefa   319
+42.007094 Iniciei  tarefa   320
+42.007173 Iniciei  tarefa   321
+42.007253 Iniciei  tarefa   322
+42.007333 Iniciei  tarefa   323
+42.007413 Iniciei  tarefa   324
+42.007493 Iniciei  tarefa   325
+42.007624 Iniciei  tarefa   326
+42.007708 Iniciei  tarefa   327
+42.007789 Iniciei  tarefa   328
+42.007868 Iniciei  tarefa   329
+42.007948 Iniciei  tarefa   330
+42.008028 Iniciei  tarefa   331
+42.008107 Iniciei  tarefa   332
+42.008187 Iniciei  tarefa   333
+42.008266 Iniciei  tarefa   334
+42.008346 Iniciei  tarefa   335
+42.008426 Iniciei  tarefa   336
+42.008507 Iniciei  tarefa   337
+42.008643 Iniciei  tarefa   338
+42.008724 Iniciei  tarefa   339
+42.008805 Iniciei  tarefa   340
+42.008885 Iniciei  tarefa   341
+42.008965 Iniciei  tarefa   342
+42.009045 Iniciei  tarefa   343
+42.009193 Iniciei  tarefa   344
+42.009276 Iniciei  tarefa   345
+42.009357 Iniciei  tarefa   346
+42.009437 Iniciei  tarefa   347
+42.009645 Iniciei  tarefa   348
+42.009732 Iniciei  tarefa   349
+42.009813 Iniciei  tarefa   350
+42.009893 Iniciei  tarefa   351
+42.009975 Iniciei  tarefa   352
+42.010056 Iniciei  tarefa   353
+42.010136 Iniciei  tarefa   354
+42.010217 Iniciei  tarefa   355
+42.010298 Iniciei  tarefa   356
+42.010379 Iniciei  tarefa   357
+42.010460 Iniciei  tarefa   358
+42.010596 Iniciei  tarefa   359
+42.010679 Iniciei  tarefa   360
+42.010759 Iniciei  tarefa   361
+42.010839 Iniciei  tarefa   362
+42.010920 Iniciei  tarefa   363
+42.011001 Iniciei  tarefa   364
+42.011082 Iniciei  tarefa   365
+42.011163 Iniciei  tarefa   366
+42.011244 Iniciei  tarefa   367
+42.011325 Iniciei  tarefa   368
+42.011405 Iniciei  tarefa   369
+42.011536 Iniciei  tarefa   370
+42.011644 Iniciei  tarefa   371
+42.011765 Iniciei  tarefa   372
+42.011849 Iniciei  tarefa   373
+42.011930 Iniciei  tarefa   374
+42.012011 Iniciei  tarefa   375
+42.012091 Iniciei  tarefa   376
+42.012173 Iniciei  tarefa   377
+42.012254 Iniciei  tarefa   378
+42.012337 Iniciei  tarefa   379
+42.012419 Iniciei  tarefa   380
+42.012630 Iniciei  tarefa   381
+42.012717 Iniciei  tarefa   382
+42.012803 Iniciei  tarefa   383
+42.012896 Iniciei  tarefa   384
+42.012988 Iniciei  tarefa   385
+42.013195 Iniciei  tarefa   386
+42.013280 Iniciei  tarefa   387
+42.013358 Iniciei  tarefa   388
+42.013585 Iniciei  tarefa   389
+42.013683 Iniciei  tarefa   390
+42.013768 Iniciei  tarefa   391
+42.013848 Iniciei  tarefa   392
+42.013929 Iniciei  tarefa   393
+42.014010 Iniciei  tarefa   394
+42.014096 Iniciei  tarefa   395
+42.014177 Iniciei  tarefa   396
+42.014256 Iniciei  tarefa   397
+42.014337 Iniciei  tarefa   398
+42.014560 Iniciei  tarefa   399
+42.014645 Iniciei  tarefa   400
+42.014724 Iniciei  tarefa   401
+42.014803 Iniciei  tarefa   402
+42.014889 Iniciei  tarefa   403
+42.014969 Iniciei  tarefa   404
+42.015049 Iniciei  tarefa   405
+42.015128 Iniciei  tarefa   406
+42.015206 Iniciei  tarefa   407
+42.015295 Iniciei  tarefa   408
+42.015423 Iniciei  tarefa   409
+42.015509 Iniciei  tarefa   410
+42.015592 Iniciei  tarefa   411
+42.015677 Iniciei  tarefa   412
+42.015757 Iniciei  tarefa   413
+42.015836 Iniciei  tarefa   414
+42.015916 Iniciei  tarefa   415
+42.015994 Iniciei  tarefa   416
+42.016072 Iniciei  tarefa   417
+42.016151 Iniciei  tarefa   418
+42.016231 Iniciei  tarefa   419
+42.016314 Iniciei  tarefa   420
+42.016533 Iniciei  tarefa   421
+42.016615 Iniciei  tarefa   422
+42.016694 Iniciei  tarefa   423
+42.016774 Iniciei  tarefa   424
+42.016853 Iniciei  tarefa   425
+42.016932 Iniciei  tarefa   426
+42.017010 Iniciei  tarefa   427
+42.017260 Iniciei  tarefa   428
+42.017454 Iniciei  tarefa   429
+42.017534 Iniciei  tarefa   430
+42.017596 Iniciei  tarefa   431
+42.017658 Iniciei  tarefa   432
+42.017720 Iniciei  tarefa   433
+42.017781 Iniciei  tarefa   434
+42.017843 Iniciei  tarefa   435
+42.017904 Iniciei  tarefa   436
+42.017966 Iniciei  tarefa   437
+42.018028 Iniciei  tarefa   438
+42.018089 Iniciei  tarefa   439
+42.018151 Iniciei  tarefa   440
+42.018212 Iniciei  tarefa   441
+42.018274 Iniciei  tarefa   442
+42.018396 Iniciei  tarefa   443
+42.018478 Iniciei  tarefa   444
+42.018557 Iniciei  tarefa   445
+42.018637 Iniciei  tarefa   446
+42.018715 Iniciei  tarefa   447
+42.018794 Iniciei  tarefa   448
+42.018873 Iniciei  tarefa   449
+42.018952 Iniciei  tarefa   450
+42.019031 Iniciei  tarefa   451
+42.019109 Iniciei  tarefa   452
+42.019188 Iniciei  tarefa   453
+42.019267 Iniciei  tarefa   454
+42.019391 Iniciei  tarefa   455
+42.019471 Iniciei  tarefa   456
+42.019551 Iniciei  tarefa   457
+42.019630 Iniciei  tarefa   458
+42.019709 Iniciei  tarefa   459
+42.019788 Iniciei  tarefa   460
+42.019867 Iniciei  tarefa   461
+42.019946 Iniciei  tarefa   462
+42.020025 Iniciei  tarefa   463
+42.020104 Iniciei  tarefa   464
+42.020185 Iniciei  tarefa   465
+42.020332 Iniciei  tarefa   466
+42.020405 Iniciei  tarefa   467
+42.020468 Iniciei  tarefa   468
+42.020529 Iniciei  tarefa   469
+42.020591 Iniciei  tarefa   470
+42.020652 Iniciei  tarefa   471
+42.020714 Iniciei  tarefa   472
+42.020775 Iniciei  tarefa   473
+42.020837 Iniciei  tarefa   474
+42.020899 Iniciei  tarefa   475
+42.020960 Iniciei  tarefa   476
+42.021022 Iniciei  tarefa   477
+42.021083 Iniciei  tarefa   478
+42.021145 Iniciei  tarefa   479
+42.021206 Iniciei  tarefa   480
+42.021328 Iniciei  tarefa   481
+42.021393 Iniciei  tarefa   482
+42.021455 Iniciei  tarefa   483
+42.021517 Iniciei  tarefa   484
+42.021579 Iniciei  tarefa   485
+42.021640 Iniciei  tarefa   486
+42.021702 Iniciei  tarefa   487
+42.021836 Iniciei  tarefa   488
+42.021902 Iniciei  tarefa   489
+42.021964 Iniciei  tarefa   490
+42.022026 Iniciei  tarefa   491
+42.022090 Iniciei  tarefa   492
+42.022161 Iniciei  tarefa   493
+42.022276 Iniciei  tarefa   494
+42.022362 Iniciei  tarefa   495
+42.022442 Iniciei  tarefa   496
+42.022526 Iniciei  tarefa   497
+42.022607 Iniciei  tarefa   498
+42.022712 Iniciei  tarefa   499
+42.022793 Iniciei  tarefa   500
+42.022873 Iniciei  tarefa   501
+42.022953 Iniciei  tarefa   502
+42.023032 Iniciei  tarefa   503
+42.023111 Iniciei  tarefa   504
+42.023258 Iniciei  tarefa   505
+42.023347 Iniciei  tarefa   506
+42.023427 Iniciei  tarefa   507
+42.023507 Iniciei  tarefa   508
+42.023587 Iniciei  tarefa   509
+42.023668 Iniciei  tarefa   510
+42.023747 Iniciei  tarefa   511
+42.023826 Iniciei  tarefa   512
+42.023906 Iniciei  tarefa   513
+42.023985 Iniciei  tarefa   514
+42.024064 Iniciei  tarefa   515
+42.024144 Iniciei  tarefa   516
+42.024279 Iniciei  tarefa   517
+42.024358 Iniciei  tarefa   518
+42.024441 Iniciei  tarefa   519
+42.024520 Iniciei  tarefa   520
+42.024601 Iniciei  tarefa   521
+42.024681 Iniciei  tarefa   522
+42.024761 Iniciei  tarefa   523
+42.024842 Iniciei  tarefa   524
+42.024922 Iniciei  tarefa   525
+42.025002 Iniciei  tarefa   526
+42.025198 Iniciei  tarefa   527
+42.025282 Iniciei  tarefa   528
+42.025363 Iniciei  tarefa   529
+42.025445 Iniciei  tarefa   530
+42.025526 Iniciei  tarefa   531
+42.025606 Iniciei  tarefa   532
+42.025774 Iniciei  tarefa   533
+42.025858 Iniciei  tarefa   534
+42.025939 Iniciei  tarefa   535
+42.026021 Iniciei  tarefa   536
+42.026101 Iniciei  tarefa   537
+42.026233 Iniciei  tarefa   538
+42.026316 Iniciei  tarefa   539
+42.026397 Iniciei  tarefa   540
+42.026478 Iniciei  tarefa   541
+42.026559 Iniciei  tarefa   542
+42.026641 Iniciei  tarefa   543
+42.026722 Iniciei  tarefa   544
+42.026803 Iniciei  tarefa   545
+42.026884 Iniciei  tarefa   546
+42.026966 Iniciei  tarefa   547
+42.027046 Iniciei  tarefa   548
+42.027169 Iniciei  tarefa   549
+42.027253 Iniciei  tarefa   550
+42.027335 Iniciei  tarefa   551
+42.027416 Iniciei  tarefa   552
+42.027498 Iniciei  tarefa   553
+42.027580 Iniciei  tarefa   554
+42.027661 Iniciei  tarefa   555
+42.027743 Iniciei  tarefa   556
+42.027823 Iniciei  tarefa   557
+42.027904 Iniciei  tarefa   558
+42.027986 Iniciei  tarefa   559
+42.028150 Iniciei  tarefa   560
+42.028239 Iniciei  tarefa   561
+42.028317 Iniciei  tarefa   562
+42.028395 Iniciei  tarefa   563
+42.028474 Iniciei  tarefa   564
+42.028552 Iniciei  tarefa   565
+42.028630 Iniciei  tarefa   566
+42.028708 Iniciei  tarefa   567
+42.028790 Iniciei  tarefa   568
+42.028871 Iniciei  tarefa   569
+42.028954 Iniciei  tarefa   570
+42.029278 Iniciei  tarefa   571
+42.029368 Iniciei  tarefa   572
+42.029449 Iniciei  tarefa   573
+42.029530 Iniciei  tarefa   574
+42.029611 Iniciei  tarefa   575
+42.029693 Iniciei  tarefa   576
+42.029774 Iniciei  tarefa   577
+42.029853 Iniciei  tarefa   578
+42.029937 Iniciei  tarefa   579
+42.030218 Iniciei  tarefa   580
+42.030321 Iniciei  tarefa   581
+42.030401 Iniciei  tarefa   582
+42.030480 Iniciei  tarefa   583
+42.030559 Iniciei  tarefa   584
+42.030638 Iniciei  tarefa   585
+42.030717 Iniciei  tarefa   586
+42.030796 Iniciei  tarefa   587
+42.030875 Iniciei  tarefa   588
+42.030953 Iniciei  tarefa   589
+42.031112 Iniciei  tarefa   590
+42.031199 Iniciei  tarefa   591
+42.031283 Iniciei  tarefa   592
+42.031365 Iniciei  tarefa   593
+42.031448 Iniciei  tarefa   594
+42.031531 Iniciei  tarefa   595
+42.031616 Iniciei  tarefa   596
+42.031698 Iniciei  tarefa   597
+42.031781 Iniciei  tarefa   598
+42.031863 Iniciei  tarefa   599
+42.031947 Iniciei  tarefa   600
+42.032155 Iniciei  tarefa   601
+42.032237 Iniciei  tarefa   602
+42.032321 Iniciei  tarefa   603
+42.032409 Iniciei  tarefa   604
+42.032489 Iniciei  tarefa   605
+42.032569 Iniciei  tarefa   606
+42.032648 Iniciei  tarefa   607
+42.032727 Iniciei  tarefa   608
+42.032814 Iniciei  tarefa   609
+42.032894 Iniciei  tarefa   610
+42.033369 Iniciei  tarefa   611
+42.033604 Iniciei  tarefa   612
+42.033699 Iniciei  tarefa   613
+42.033782 Iniciei  tarefa   614
+42.033865 Iniciei  tarefa   615
+42.033948 Iniciei  tarefa   616
+42.034030 Iniciei  tarefa   617
+42.034113 Iniciei  tarefa   618
+42.034193 Iniciei  tarefa   619
+42.034274 Iniciei  tarefa   620
+42.034358 Iniciei  tarefa   621
+42.034705 Iniciei  tarefa   622
+42.035044 Iniciei  tarefa   623
+42.035136 Iniciei  tarefa   624
+42.035215 Iniciei  tarefa   625
+42.035293 Iniciei  tarefa   626
+42.035400 Iniciei  tarefa   627
+42.035524 Iniciei  tarefa   628
+42.035583 Iniciei  tarefa   629
+42.035621 Iniciei  tarefa   630
+42.035657 Iniciei  tarefa   631
+42.035693 Iniciei  tarefa   632
+42.035728 Iniciei  tarefa   633
+42.035764 Iniciei  tarefa   634
+42.035800 Iniciei  tarefa   635
+42.035835 Iniciei  tarefa   636
+42.035871 Iniciei  tarefa   637
+42.035907 Iniciei  tarefa   638
+42.035943 Iniciei  tarefa   639
+42.035980 Iniciei  tarefa   640
+42.036015 Iniciei  tarefa   641
+42.036050 Iniciei  tarefa   642
+42.036086 Iniciei  tarefa   643
+42.036121 Iniciei  tarefa   644
+42.036156 Iniciei  tarefa   645
+42.036190 Iniciei  tarefa   646
+42.036226 Iniciei  tarefa   647
+42.036260 Iniciei  tarefa   648
+42.036296 Iniciei  tarefa   649
+42.036331 Iniciei  tarefa   650
+42.036367 Iniciei  tarefa   651
+42.036478 Iniciei  tarefa   652
+42.036561 Iniciei  tarefa   653
+42.036640 Iniciei  tarefa   654
+42.036719 Iniciei  tarefa   655
+42.036798 Iniciei  tarefa   656
+42.036877 Iniciei  tarefa   657
+42.037149 Iniciei  tarefa   658
+42.037231 Iniciei  tarefa   659
+42.037310 Iniciei  tarefa   660
+42.037530 Iniciei  tarefa   661
+42.037615 Iniciei  tarefa   662
+42.037693 Iniciei  tarefa   663
+42.037772 Iniciei  tarefa   664
+42.037851 Iniciei  tarefa   665
+42.037932 Iniciei  tarefa   666
+42.038010 Iniciei  tarefa   667
+42.038089 Iniciei  tarefa   668
+42.038168 Iniciei  tarefa   669
+42.038247 Iniciei  tarefa   670
+42.038326 Iniciei  tarefa   671
+42.038458 Iniciei  tarefa   672
+42.038539 Iniciei  tarefa   673
+42.038619 Iniciei  tarefa   674
+42.038698 Iniciei  tarefa   675
+42.038778 Iniciei  tarefa   676
+42.038858 Iniciei  tarefa   677
+42.038938 Iniciei  tarefa   678
+42.039018 Iniciei  tarefa   679
+42.039097 Iniciei  tarefa   680
+42.039177 Iniciei  tarefa   681
+42.039257 Iniciei  tarefa   682
+42.039400 Iniciei  tarefa   683
+42.039484 Iniciei  tarefa   684
+42.039564 Iniciei  tarefa   685
+42.039643 Iniciei  tarefa   686
+42.039723 Iniciei  tarefa   687
+42.039803 Iniciei  tarefa   688
+42.039883 Iniciei  tarefa   689
+42.039963 Iniciei  tarefa   690
+42.040043 Iniciei  tarefa   691
+42.040124 Iniciei  tarefa   692
+42.040204 Iniciei  tarefa   693
+42.040283 Iniciei  tarefa   694
+42.040416 Iniciei  tarefa   695
+42.040497 Iniciei  tarefa   696
+42.040578 Iniciei  tarefa   697
+42.040658 Iniciei  tarefa   698
+42.040738 Iniciei  tarefa   699
+42.040818 Iniciei  tarefa   700
+42.040898 Iniciei  tarefa   701
+42.041121 Iniciei  tarefa   702
+42.041205 Iniciei  tarefa   703
+42.041404 Iniciei  tarefa   704
+42.041489 Iniciei  tarefa   705
+42.041569 Iniciei  tarefa   706
+42.041649 Iniciei  tarefa   707
+42.041729 Iniciei  tarefa   708
+42.041809 Iniciei  tarefa   709
+42.041889 Iniciei  tarefa   710
+42.041970 Iniciei  tarefa   711
+42.042050 Iniciei  tarefa   712
+42.042130 Iniciei  tarefa   713
+42.042211 Iniciei  tarefa   714
+42.042339 Iniciei  tarefa   715
+42.042423 Iniciei  tarefa   716
+42.042503 Iniciei  tarefa   717
+42.042582 Iniciei  tarefa   718
+42.042662 Iniciei  tarefa   719
+42.042742 Iniciei  tarefa   720
+42.042822 Iniciei  tarefa   721
+42.042902 Iniciei  tarefa   722
+42.042981 Iniciei  tarefa   723
+42.043060 Iniciei  tarefa   724
+42.043140 Iniciei  tarefa   725
+42.043219 Iniciei  tarefa   726
+42.043389 Iniciei  tarefa   727
+42.043470 Iniciei  tarefa   728
+42.043550 Iniciei  tarefa   729
+42.043631 Iniciei  tarefa   730
+42.043711 Iniciei  tarefa   731
+42.043791 Iniciei  tarefa   732
+42.043872 Iniciei  tarefa   733
+42.043952 Iniciei  tarefa   734
+42.044033 Iniciei  tarefa   735
+42.044112 Iniciei  tarefa   736
+42.044193 Iniciei  tarefa   737
+42.044375 Iniciei  tarefa   738
+42.044551 Iniciei  tarefa   739
+42.044640 Iniciei  tarefa   740
+42.044719 Iniciei  tarefa   741
+42.044796 Iniciei  tarefa   742
+42.044873 Iniciei  tarefa   743
+42.044950 Iniciei  tarefa   744
+42.045117 Iniciei  tarefa   745
+42.045303 Iniciei  tarefa   746
+42.045396 Iniciei  tarefa   747
+42.045478 Iniciei  tarefa   748
+42.045559 Iniciei  tarefa   749
+42.045639 Iniciei  tarefa   750
+42.045721 Iniciei  tarefa   751
+42.046078 Iniciei  tarefa   752
+42.046724 Iniciei  tarefa   753
+42.046821 Iniciei  tarefa   754
+42.046928 Iniciei  tarefa   755
+42.047018 Iniciei  tarefa   756
+42.047101 Iniciei  tarefa   757
+42.047446 Iniciei  tarefa   758
+42.047529 Iniciei  tarefa   759
+42.047610 Iniciei  tarefa   760
+42.047700 Iniciei  tarefa   761
+42.047783 Iniciei  tarefa   762
+42.047862 Iniciei  tarefa   763
+42.047942 Iniciei  tarefa   764
+42.048024 Iniciei  tarefa   765
+42.048206 Iniciei  tarefa   766
+42.048309 Iniciei  tarefa   767
+42.048395 Iniciei  tarefa   768
+42.048476 Iniciei  tarefa   769
+42.048559 Iniciei  tarefa   770
+42.048639 Iniciei  tarefa   771
+42.048720 Iniciei  tarefa   772
+42.048800 Iniciei  tarefa   773
+42.048879 Iniciei  tarefa   774
+42.048962 Iniciei  tarefa   775
+42.049259 Iniciei  tarefa   776
+42.049346 Iniciei  tarefa   777
+42.049429 Iniciei  tarefa   778
+42.049512 Iniciei  tarefa   779
+42.049611 Iniciei  tarefa   780
+42.049723 Iniciei  tarefa   781
+42.049806 Iniciei  tarefa   782
+42.049889 Iniciei  tarefa   783
+42.049977 Iniciei  tarefa   784
+42.050198 Iniciei  tarefa   785
+42.050288 Iniciei  tarefa   786
+42.050366 Iniciei  tarefa   787
+42.050447 Iniciei  tarefa   788
+42.050530 Iniciei  tarefa   789
+42.050610 Iniciei  tarefa   790
+42.050693 Iniciei  tarefa   791
+42.050778 Iniciei  tarefa   792
+42.050856 Iniciei  tarefa   793
+42.050929 Iniciei  tarefa   794
+42.050992 Iniciei  tarefa   795
+42.051112 Iniciei  tarefa   796
+42.051201 Iniciei  tarefa   797
+42.051267 Iniciei  tarefa   798
+42.051329 Iniciei  tarefa   799
+42.051390 Iniciei  tarefa   800
+42.051452 Iniciei  tarefa   801
+42.051513 Iniciei  tarefa   802
+42.051574 Iniciei  tarefa   803
+42.051635 Iniciei  tarefa   804
+42.051697 Iniciei  tarefa   805
+42.051758 Iniciei  tarefa   806
+42.051819 Iniciei  tarefa   807
+42.051881 Iniciei  tarefa   808
+42.051942 Iniciei  tarefa   809
+42.052003 Iniciei  tarefa   810
+42.052137 Iniciei  tarefa   811
+42.052223 Iniciei  tarefa   812
+42.052289 Iniciei  tarefa   813
+42.052351 Iniciei  tarefa   814
+42.052413 Iniciei  tarefa   815
+42.052474 Iniciei  tarefa   816
+42.052535 Iniciei  tarefa   817
+42.052597 Iniciei  tarefa   818
+42.052658 Iniciei  tarefa   819
+42.052719 Iniciei  tarefa   820
+42.052781 Iniciei  tarefa   821
+42.052842 Iniciei  tarefa   822
+42.052903 Iniciei  tarefa   823
+42.052965 Iniciei  tarefa   824
+42.053124 Iniciei  tarefa   825
+42.053206 Iniciei  tarefa   826
+42.053288 Iniciei  tarefa   827
+42.053371 Iniciei  tarefa   828
+42.053455 Iniciei  tarefa   829
+42.053540 Iniciei  tarefa   830
+42.053622 Iniciei  tarefa   831
+42.053708 Iniciei  tarefa   832
+42.053801 Iniciei  tarefa   833
+42.053893 Iniciei  tarefa   834
+42.054136 Iniciei  tarefa   835
+42.054220 Iniciei  tarefa   836
+42.054297 Iniciei  tarefa   837
+42.054375 Iniciei  tarefa   838
+42.054451 Iniciei  tarefa   839
+42.054527 Iniciei  tarefa   840
+42.054600 Iniciei  tarefa   841
+42.054662 Iniciei  tarefa   842
+42.054724 Iniciei  tarefa   843
+42.054785 Iniciei  tarefa   844
+42.054847 Iniciei  tarefa   845
+42.054908 Iniciei  tarefa   846
+42.055033 Iniciei  tarefa   847
+42.055117 Iniciei  tarefa   848
+42.055198 Iniciei  tarefa   849
+42.055277 Iniciei  tarefa   850
+42.055356 Iniciei  tarefa   851
+42.055436 Iniciei  tarefa   852
+42.055516 Iniciei  tarefa   853
+42.055596 Iniciei  tarefa   854
+42.055677 Iniciei  tarefa   855
+42.055757 Iniciei  tarefa   856
+42.055837 Iniciei  tarefa   857
+42.055958 Iniciei  tarefa   858
+42.056045 Iniciei  tarefa   859
+42.056126 Iniciei  tarefa   860
+42.056207 Iniciei  tarefa   861
+42.056288 Iniciei  tarefa   862
+42.056368 Iniciei  tarefa   863
+42.056449 Iniciei  tarefa   864
+42.056531 Iniciei  tarefa   865
+42.056611 Iniciei  tarefa   866
+42.056692 Iniciei  tarefa   867
+42.056859 Iniciei  tarefa   868
+42.057018 Iniciei  tarefa   869
+42.057082 Iniciei  tarefa   870
+42.057144 Iniciei  tarefa   871
+42.057206 Iniciei  tarefa   872
+42.057267 Iniciei  tarefa   873
+42.057329 Iniciei  tarefa   874
+42.057390 Iniciei  tarefa   875
+42.057533 Iniciei  tarefa   876
+42.057605 Iniciei  tarefa   877
+42.057668 Iniciei  tarefa   878
+42.057730 Iniciei  tarefa   879
+42.057791 Iniciei  tarefa   880
+42.057853 Iniciei  tarefa   881
+42.057976 Iniciei  tarefa   882
+42.058061 Iniciei  tarefa   883
+42.058124 Iniciei  tarefa   884
+42.058186 Iniciei  tarefa   885
+42.058247 Iniciei  tarefa   886
+42.058308 Iniciei  tarefa   887
+42.058370 Iniciei  tarefa   888
+42.058431 Iniciei  tarefa   889
+42.058493 Iniciei  tarefa   890
+42.058554 Iniciei  tarefa   891
+42.058616 Iniciei  tarefa   892
+42.058677 Iniciei  tarefa   893
+42.058739 Iniciei  tarefa   894
+42.058800 Iniciei  tarefa   895
+42.058910 Iniciei  tarefa   896
+42.058995 Iniciei  tarefa   897
+42.059076 Iniciei  tarefa   898
+42.059157 Iniciei  tarefa   899
+42.059238 Iniciei  tarefa   900
+42.059318 Iniciei  tarefa   901
+42.059399 Iniciei  tarefa   902
+42.059480 Iniciei  tarefa   903
+42.059561 Iniciei  tarefa   904
+42.059642 Iniciei  tarefa   905
+42.059723 Iniciei  tarefa   906
+42.059804 Iniciei  tarefa   907
+42.059927 Iniciei  tarefa   908
+42.060010 Iniciei  tarefa   909
+42.060091 Iniciei  tarefa   910
+42.060172 Iniciei  tarefa   911
+42.060253 Iniciei  tarefa   912
+42.060334 Iniciei  tarefa   913
+42.060415 Iniciei  tarefa   914
+42.060496 Iniciei  tarefa   915
+42.060577 Iniciei  tarefa   916
+42.060658 Iniciei  tarefa   917
+42.060850 Iniciei  tarefa   918
+42.060929 Iniciei  tarefa   919
+42.060992 Iniciei  tarefa   920
+42.061054 Iniciei  tarefa   921
+42.061116 Iniciei  tarefa   922
+42.061194 Iniciei  tarefa   923
+42.061274 Iniciei  tarefa   924
+42.061440 Iniciei  tarefa   925
+42.061520 Iniciei  tarefa   926
+42.061599 Iniciei  tarefa   927
+42.061677 Iniciei  tarefa   928
+42.061757 Iniciei  tarefa   929
+42.061898 Iniciei  tarefa   930
+42.061978 Iniciei  tarefa   931
+42.062058 Iniciei  tarefa   932
+42.062140 Iniciei  tarefa   933
+42.062223 Iniciei  tarefa   934
+42.062305 Iniciei  tarefa   935
+42.062387 Iniciei  tarefa   936
+42.062474 Iniciei  tarefa   937
+42.062555 Iniciei  tarefa   938
+42.062635 Iniciei  tarefa   939
+42.062719 Iniciei  tarefa   940
+42.062901 Iniciei  tarefa   941
+42.062988 Iniciei  tarefa   942
+42.063070 Iniciei  tarefa   943
+42.063150 Iniciei  tarefa   944
+42.063232 Iniciei  tarefa   945
+42.063312 Iniciei  tarefa   946
+42.063394 Iniciei  tarefa   947
+42.063477 Iniciei  tarefa   948
+42.063557 Iniciei  tarefa   949
+42.063637 Iniciei  tarefa   950
+42.063770 Iniciei  tarefa   951
+42.063866 Iniciei  tarefa   952
+42.063949 Iniciei  tarefa   953
+42.064030 Iniciei  tarefa   954
+42.064111 Iniciei  tarefa   955
+42.064192 Iniciei  tarefa   956
+42.064272 Iniciei  tarefa   957
+42.064356 Iniciei  tarefa   958
+42.064443 Iniciei  tarefa   959
+42.064526 Iniciei  tarefa   960
+42.064605 Iniciei  tarefa   961
+42.064685 Iniciei  tarefa   962
+42.065019 Iniciei  tarefa   963
+42.065101 Iniciei  tarefa   964
+42.065182 Iniciei  tarefa   965
+42.065262 Iniciei  tarefa   966
+42.065343 Iniciei  tarefa   967
+42.065599 Iniciei  tarefa   968
+42.065757 Iniciei  tarefa   969
+42.065850 Iniciei  tarefa   970
+42.065933 Iniciei  tarefa   971
+42.066015 Iniciei  tarefa   972
+42.066098 Iniciei  tarefa   973
+42.066201 Iniciei  tarefa   974
+42.066408 Iniciei  tarefa   975
+42.066574 Iniciei  tarefa   976
+42.066711 Iniciei  tarefa   977
+42.066798 Iniciei  tarefa   978
+42.066962 Iniciei  tarefa   979
+42.067049 Iniciei  tarefa   980
+42.067131 Iniciei  tarefa   981
+42.067215 Iniciei  tarefa   982
+42.067291 Iniciei  tarefa   983
+42.067354 Iniciei  tarefa   984
+42.067416 Iniciei  tarefa   985
+42.067478 Iniciei  tarefa   986
+42.067539 Iniciei  tarefa   987
+42.067601 Iniciei  tarefa   988
+42.067719 Iniciei  tarefa   989
+42.067791 Iniciei  tarefa   990
+42.067853 Iniciei  tarefa   991
+42.067915 Iniciei  tarefa   992
+42.067976 Iniciei  tarefa   993
+42.068038 Iniciei  tarefa   994
+42.068099 Iniciei  tarefa   995
+42.068161 Iniciei  tarefa   996
+42.068222 Iniciei  tarefa   997
+42.068284 Iniciei  tarefa   998
+42.068345 Iniciei  tarefa   999
+42.068407 Iniciei  tarefa  1000
+42.068468 Encerrei tarefa     1
+42.068530 Encerrei tarefa     2
+42.068591 Encerrei tarefa     3
+42.068715 Encerrei tarefa     4
+42.068797 Encerrei tarefa     5
+42.068876 Encerrei tarefa     6
+42.068955 Encerrei tarefa     7
+42.069033 Encerrei tarefa     8
+42.069112 Encerrei tarefa     9
+42.069191 Encerrei tarefa    10
+42.069399 Encerrei tarefa    11
+42.069492 Encerrei tarefa    12
+42.069571 Encerrei tarefa    13
+42.069699 Encerrei tarefa    14
+42.069781 Encerrei tarefa    15
+42.069860 Encerrei tarefa    16
+42.069939 Encerrei tarefa    17
+42.070017 Encerrei tarefa    18
+42.070098 Encerrei tarefa    19
+42.070177 Encerrei tarefa    20
+42.070255 Encerrei tarefa    21
+42.070334 Encerrei tarefa    22
+42.070412 Encerrei tarefa    23
+42.070492 Encerrei tarefa    24
+42.070616 Encerrei tarefa    25
+42.070696 Encerrei tarefa    26
+42.070759 Encerrei tarefa    27
+42.070821 Encerrei tarefa    28
+42.070882 Encerrei tarefa    29
+42.070944 Encerrei tarefa    30
+42.071005 Encerrei tarefa    31
+42.071066 Encerrei tarefa    32
+42.071128 Encerrei tarefa    33
+42.071189 Encerrei tarefa    34
+42.071251 Encerrei tarefa    35
+42.071312 Encerrei tarefa    36
+42.071373 Encerrei tarefa    37
+42.071435 Encerrei tarefa    38
+42.071496 Encerrei tarefa    39
+42.071610 Encerrei tarefa    40
+42.071696 Encerrei tarefa    41
+42.071777 Encerrei tarefa    42
+42.071841 Encerrei tarefa    43
+42.071903 Encerrei tarefa    44
+42.071964 Encerrei tarefa    45
+42.072097 Encerrei tarefa    46
+42.072166 Encerrei tarefa    47
+42.072228 Encerrei tarefa    48
+42.072290 Encerrei tarefa    49
+42.072352 Encerrei tarefa    50
+42.072413 Encerrei tarefa    51
+42.072475 Encerrei tarefa    52
+42.072589 Encerrei tarefa    53
+42.072671 Encerrei tarefa    54
+42.072750 Encerrei tarefa    55
+42.072829 Encerrei tarefa    56
+42.072908 Encerrei tarefa    57
+42.072986 Encerrei tarefa    58
+42.073065 Encerrei tarefa    59
+42.073144 Encerrei tarefa    60
+42.073222 Encerrei tarefa    61
+42.073391 Encerrei tarefa    62
+42.073476 Encerrei tarefa    63
+42.073630 Encerrei tarefa    64
+42.073696 Encerrei tarefa    65
+42.073758 Encerrei tarefa    66
+42.073820 Encerrei tarefa    67
+42.073882 Encerrei tarefa    68
+42.073943 Encerrei tarefa    69
+42.074005 Encerrei tarefa    70
+42.074066 Encerrei tarefa    71
+42.074128 Encerrei tarefa    72
+42.074189 Encerrei tarefa    73
+42.074251 Encerrei tarefa    74
+42.074326 Encerrei tarefa    75
+42.074409 Encerrei tarefa    76
+42.074536 Encerrei tarefa    77
+42.074623 Encerrei tarefa    78
+42.074703 Encerrei tarefa    79
+42.074782 Encerrei tarefa    80
+42.074861 Encerrei tarefa    81
+42.074941 Encerrei tarefa    82
+42.075020 Encerrei tarefa    83
+42.075100 Encerrei tarefa    84
+42.075178 Encerrei tarefa    85
+42.075258 Encerrei tarefa    86
+42.075336 Encerrei tarefa    87
+42.075416 Encerrei tarefa    88
+42.075536 Encerrei tarefa    89
+42.075618 Encerrei tarefa    90
+42.075698 Encerrei tarefa    91
+42.075778 Encerrei tarefa    92
+42.075858 Encerrei tarefa    93
+42.075939 Encerrei tarefa    94
+42.076018 Encerrei tarefa    95
+42.076098 Encerrei tarefa    96
+42.076177 Encerrei tarefa    97
+42.076256 Encerrei tarefa    98
+42.076337 Encerrei tarefa    99
+42.076448 Encerrei tarefa   100
+42.076535 Encerrei tarefa   101
+42.076615 Encerrei tarefa   102
+42.076695 Encerrei tarefa   103
+42.076775 Encerrei tarefa   104
+42.076854 Encerrei tarefa   105
+42.076934 Encerrei tarefa   106
+42.077013 Encerrei tarefa   107
+42.077093 Encerrei tarefa   108
+42.077172 Encerrei tarefa   109
+42.077254 Encerrei tarefa   110
+42.077468 Encerrei tarefa   111
+42.077552 Encerrei tarefa   112
+42.077633 Encerrei tarefa   113
+42.077714 Encerrei tarefa   114
+42.077796 Encerrei tarefa   115
+42.077878 Encerrei tarefa   116
+42.077978 Encerrei tarefa   117
+42.078061 Encerrei tarefa   118
+42.078143 Encerrei tarefa   119
+42.078224 Encerrei tarefa   120
+42.078305 Encerrei tarefa   121
+42.078536 Encerrei tarefa   122
+42.078625 Encerrei tarefa   123
+42.078705 Encerrei tarefa   124
+42.078789 Encerrei tarefa   125
+42.078871 Encerrei tarefa   126
+42.078956 Encerrei tarefa   127
+42.079021 Encerrei tarefa   128
+42.079083 Encerrei tarefa   129
+42.079145 Encerrei tarefa   130
+42.079206 Encerrei tarefa   131
+42.079268 Encerrei tarefa   132
+42.079329 Encerrei tarefa   133
+42.079512 Encerrei tarefa   134
+42.079594 Encerrei tarefa   135
+42.079674 Encerrei tarefa   136
+42.079754 Encerrei tarefa   137
+42.079834 Encerrei tarefa   138
+42.079937 Encerrei tarefa   139
+42.080020 Encerrei tarefa   140
+42.080101 Encerrei tarefa   141
+42.080181 Encerrei tarefa   142
+42.080261 Encerrei tarefa   143
+42.080391 Encerrei tarefa   144
+42.080466 Encerrei tarefa   145
+42.080529 Encerrei tarefa   146
+42.080590 Encerrei tarefa   147
+42.080652 Encerrei tarefa   148
+42.080713 Encerrei tarefa   149
+42.080775 Encerrei tarefa   150
+42.080836 Encerrei tarefa   151
+42.080898 Encerrei tarefa   152
+42.080959 Encerrei tarefa   153
+42.081020 Encerrei tarefa   154
+42.081082 Encerrei tarefa   155
+42.081143 Encerrei tarefa   156
+42.081205 Encerrei tarefa   157
+42.081358 Encerrei tarefa   158
+42.081440 Encerrei tarefa   159
+42.081503 Encerrei tarefa   160
+42.081565 Encerrei tarefa   161
+42.081626 Encerrei tarefa   162
+42.081688 Encerrei tarefa   163
+42.081749 Encerrei tarefa   164
+42.081811 Encerrei tarefa   165
+42.081873 Encerrei tarefa   166
+42.081934 Encerrei tarefa   167
+42.081996 Encerrei tarefa   168
+42.082057 Encerrei tarefa   169
+42.082119 Encerrei tarefa   170
+42.082180 Encerrei tarefa   171
+42.082242 Encerrei tarefa   172
+42.082359 Encerrei tarefa   173
+42.082441 Encerrei tarefa   174
+42.082522 Encerrei tarefa   175
+42.082603 Encerrei tarefa   176
+42.082682 Encerrei tarefa   177
+42.082763 Encerrei tarefa   178
+42.082843 Encerrei tarefa   179
+42.082924 Encerrei tarefa   180
+42.083004 Encerrei tarefa   181
+42.083085 Encerrei tarefa   182
+42.083166 Encerrei tarefa   183
+42.083246 Encerrei tarefa   184
+42.083368 Encerrei tarefa   185
+42.083450 Encerrei tarefa   186
+42.083531 Encerrei tarefa   187
+42.083612 Encerrei tarefa   188
+42.083693 Encerrei tarefa   189
+42.083773 Encerrei tarefa   190
+42.083855 Encerrei tarefa   191
+42.083936 Encerrei tarefa   192
+42.084016 Encerrei tarefa   193
+42.084096 Encerrei tarefa   194
+42.084176 Encerrei tarefa   195
+42.084332 Encerrei tarefa   196
+42.084419 Encerrei tarefa   197
+42.084498 Encerrei tarefa   198
+42.084579 Encerrei tarefa   199
+42.084660 Encerrei tarefa   200
+42.084741 Encerrei tarefa   201
+42.084806 Encerrei tarefa   202
+42.084867 Encerrei tarefa   203
+42.084929 Encerrei tarefa   204
+42.084990 Encerrei tarefa   205
+42.085052 Encerrei tarefa   206
+42.085113 Encerrei tarefa   207
+42.085175 Encerrei tarefa   208
+42.085294 Encerrei tarefa   209
+42.085360 Encerrei tarefa   210
+42.085422 Encerrei tarefa   211
+42.085483 Encerrei tarefa   212
+42.085545 Encerrei tarefa   213
+42.085606 Encerrei tarefa   214
+42.085668 Encerrei tarefa   215
+42.085797 Encerrei tarefa   216
+42.085868 Encerrei tarefa   217
+42.085931 Encerrei tarefa   218
+42.085992 Encerrei tarefa   219
+42.086054 Encerrei tarefa   220
+42.086116 Encerrei tarefa   221
+42.086211 Encerrei tarefa   222
+42.086304 Encerrei tarefa   223
+42.086385 Encerrei tarefa   224
+42.086466 Encerrei tarefa   225
+42.086546 Encerrei tarefa   226
+42.086627 Encerrei tarefa   227
+42.086707 Encerrei tarefa   228
+42.086788 Encerrei tarefa   229
+42.086868 Encerrei tarefa   230
+42.086949 Encerrei tarefa   231
+42.087030 Encerrei tarefa   232
+42.087110 Encerrei tarefa   233
+42.087241 Encerrei tarefa   234
+42.087308 Encerrei tarefa   235
+42.087370 Encerrei tarefa   236
+42.087432 Encerrei tarefa   237
+42.087494 Encerrei tarefa   238
+42.087555 Encerrei tarefa   239
+42.087617 Encerrei tarefa   240
+42.087678 Encerrei tarefa   241
+42.087740 Encerrei tarefa   242
+42.087801 Encerrei tarefa   243
+42.087863 Encerrei tarefa   244
+42.087924 Encerrei tarefa   245
+42.087986 Encerrei tarefa   246
+42.088047 Encerrei tarefa   247
+42.088108 Encerrei tarefa   248
+42.088231 Encerrei tarefa   249
+42.088313 Encerrei tarefa   250
+42.088394 Encerrei tarefa   251
+42.088475 Encerrei tarefa   252
+42.088556 Encerrei tarefa   253
+42.088637 Encerrei tarefa   254
+42.088809 Encerrei tarefa   255
+42.088892 Encerrei tarefa   256
+42.088973 Encerrei tarefa   257
+42.089054 Encerrei tarefa   258
+42.089170 Encerrei tarefa   259
+42.089255 Encerrei tarefa   260
+42.089337 Encerrei tarefa   261
+42.089417 Encerrei tarefa   262
+42.089497 Encerrei tarefa   263
+42.089578 Encerrei tarefa   264
+42.089754 Encerrei tarefa   265
+42.089837 Encerrei tarefa   266
+42.089939 Encerrei tarefa   267
+42.090021 Encerrei tarefa   268
+42.090144 Encerrei tarefa   269
+42.090220 Encerrei tarefa   270
+42.090283 Encerrei tarefa   271
+42.090345 Encerrei tarefa   272
+42.090407 Encerrei tarefa   273
+42.090468 Encerrei tarefa   274
+42.090530 Encerrei tarefa   275
+42.090592 Encerrei tarefa   276
+42.090653 Encerrei tarefa   277
+42.090823 Encerrei tarefa   278
+42.090888 Encerrei tarefa   279
+42.090950 Encerrei tarefa   280
+42.091012 Encerrei tarefa   281
+42.091119 Encerrei tarefa   282
+42.091194 Encerrei tarefa   283
+42.091257 Encerrei tarefa   284
+42.091319 Encerrei tarefa   285
+42.091381 Encerrei tarefa   286
+42.091442 Encerrei tarefa   287
+42.091504 Encerrei tarefa   288
+42.091565 Encerrei tarefa   289
+42.091627 Encerrei tarefa   290
+42.091755 Encerrei tarefa   291
+42.091820 Encerrei tarefa   292
+42.091882 Encerrei tarefa   293
+42.091943 Encerrei tarefa   294
+42.092005 Encerrei tarefa   295
+42.093164 Encerrei tarefa   296
+42.093249 Encerrei tarefa   297
+42.093330 Encerrei tarefa   298
+42.093411 Encerrei tarefa   299
+42.093493 Encerrei tarefa   300
+42.093575 Encerrei tarefa   301
+42.093787 Encerrei tarefa   302
+42.093876 Encerrei tarefa   303
+42.093959 Encerrei tarefa   304
+42.094102 Encerrei tarefa   305
+42.094170 Encerrei tarefa   306
+42.094233 Encerrei tarefa   307
+42.094368 Encerrei tarefa   308
+42.094562 Encerrei tarefa   309
+42.094650 Encerrei tarefa   310
+42.094728 Encerrei tarefa   311
+42.094805 Encerrei tarefa   312
+42.094882 Encerrei tarefa   313
+42.094959 Encerrei tarefa   314
+42.095120 Encerrei tarefa   315
+42.095208 Encerrei tarefa   316
+42.095293 Encerrei tarefa   317
+42.095376 Encerrei tarefa   318
+42.095441 Encerrei tarefa   319
+42.095503 Encerrei tarefa   320
+42.095565 Encerrei tarefa   321
+42.095626 Encerrei tarefa   322
+42.095688 Encerrei tarefa   323
+42.095749 Encerrei tarefa   324
+42.095810 Encerrei tarefa   325
+42.095872 Encerrei tarefa   326
+42.095933 Encerrei tarefa   327
+42.096110 Encerrei tarefa   328
+42.096196 Encerrei tarefa   329
+42.096277 Encerrei tarefa   330
+42.096356 Encerrei tarefa   331
+42.096435 Encerrei tarefa   332
+42.096513 Encerrei tarefa   333
+42.096593 Encerrei tarefa   334
+42.096675 Encerrei tarefa   335
+42.096755 Encerrei tarefa   336
+42.096835 Encerrei tarefa   337
+42.096915 Encerrei tarefa   338
+42.097110 Encerrei tarefa   339
+42.097196 Encerrei tarefa   340
+42.097277 Encerrei tarefa   341
+42.097358 Encerrei tarefa   342
+42.097437 Encerrei tarefa   343
+42.097645 Encerrei tarefa   344
+42.097731 Encerrei tarefa   345
+42.097825 Encerrei tarefa   346
+42.097990 Encerrei tarefa   347
+42.098082 Encerrei tarefa   348
+42.098168 Encerrei tarefa   349
+42.098246 Encerrei tarefa   350
+42.098325 Encerrei tarefa   351
+42.098403 Encerrei tarefa   352
+42.098485 Encerrei tarefa   353
+42.098570 Encerrei tarefa   354
+42.098650 Encerrei tarefa   355
+42.098732 Encerrei tarefa   356
+42.098812 Encerrei tarefa   357
+42.098969 Encerrei tarefa   358
+42.099055 Encerrei tarefa   359
+42.099134 Encerrei tarefa   360
+42.099215 Encerrei tarefa   361
+42.099293 Encerrei tarefa   362
+42.099371 Encerrei tarefa   363
+42.099450 Encerrei tarefa   364
+42.099535 Encerrei tarefa   365
+42.099643 Encerrei tarefa   366
+42.099720 Encerrei tarefa   367
+42.099798 Encerrei tarefa   368
+42.099951 Encerrei tarefa   369
+42.100035 Encerrei tarefa   370
+42.100113 Encerrei tarefa   371
+42.100191 Encerrei tarefa   372
+42.100271 Encerrei tarefa   373
+42.100357 Encerrei tarefa   374
+42.100436 Encerrei tarefa   375
+42.100514 Encerrei tarefa   376
+42.100594 Encerrei tarefa   377
+42.100672 Encerrei tarefa   378
+42.100751 Encerrei tarefa   379
+42.100873 Encerrei tarefa   380
+42.100957 Encerrei tarefa   381
+42.101035 Encerrei tarefa   382
+42.101114 Encerrei tarefa   383
+42.101194 Encerrei tarefa   384
+42.101272 Encerrei tarefa   385
+42.101447 Encerrei tarefa   386
+42.101539 Encerrei tarefa   387
+42.101620 Encerrei tarefa   388
+42.101700 Encerrei tarefa   389
+42.101779 Encerrei tarefa   390
+42.101908 Encerrei tarefa   391
+42.101989 Encerrei tarefa   392
+42.102068 Encerrei tarefa   393
+42.102147 Encerrei tarefa   394
+42.102254 Encerrei tarefa   395
+42.102334 Encerrei tarefa   396
+42.102414 Encerrei tarefa   397
+42.102494 Encerrei tarefa   398
+42.102573 Encerrei tarefa   399
+42.102652 Encerrei tarefa   400
+42.102731 Encerrei tarefa   401
+42.102853 Encerrei tarefa   402
+42.102935 Encerrei tarefa   403
+42.103015 Encerrei tarefa   404
+42.103095 Encerrei tarefa   405
+42.103174 Encerrei tarefa   406
+42.103253 Encerrei tarefa   407
+42.103332 Encerrei tarefa   408
+42.103411 Encerrei tarefa   409
+42.103491 Encerrei tarefa   410
+42.103571 Encerrei tarefa   411
+42.103650 Encerrei tarefa   412
+42.103730 Encerrei tarefa   413
+42.103852 Encerrei tarefa   414
+42.103934 Encerrei tarefa   415
+42.104014 Encerrei tarefa   416
+42.104094 Encerrei tarefa   417
+42.104173 Encerrei tarefa   418
+42.104253 Encerrei tarefa   419
+42.104332 Encerrei tarefa   420
+42.104412 Encerrei tarefa   421
+42.104492 Encerrei tarefa   422
+42.104571 Encerrei tarefa   423
+42.104651 Encerrei tarefa   424
+42.104768 Encerrei tarefa   425
+42.104855 Encerrei tarefa   426
+42.104934 Encerrei tarefa   427
+42.105014 Encerrei tarefa   428
+42.105095 Encerrei tarefa   429
+42.105176 Encerrei tarefa   430
+42.105338 Encerrei tarefa   431
+42.105427 Encerrei tarefa   432
+42.105508 Encerrei tarefa   433
+42.105588 Encerrei tarefa   434
+42.105669 Encerrei tarefa   435
+42.105806 Encerrei tarefa   436
+42.105888 Encerrei tarefa   437
+42.105968 Encerrei tarefa   438
+42.106048 Encerrei tarefa   439
+42.106129 Encerrei tarefa   440
+42.106210 Encerrei tarefa   441
+42.106290 Encerrei tarefa   442
+42.106371 Encerrei tarefa   443
+42.106452 Encerrei tarefa   444
+42.106533 Encerrei tarefa   445
+42.106613 Encerrei tarefa   446
+42.106732 Encerrei tarefa   447
+42.106817 Encerrei tarefa   448
+42.106899 Encerrei tarefa   449
+42.106978 Encerrei tarefa   450
+42.107057 Encerrei tarefa   451
+42.107137 Encerrei tarefa   452
+42.107217 Encerrei tarefa   453
+42.107297 Encerrei tarefa   454
+42.107377 Encerrei tarefa   455
+42.107457 Encerrei tarefa   456
+42.107538 Encerrei tarefa   457
+42.107618 Encerrei tarefa   458
+42.107743 Encerrei tarefa   459
+42.107821 Encerrei tarefa   460
+42.107884 Encerrei tarefa   461
+42.107946 Encerrei tarefa   462
+42.108008 Encerrei tarefa   463
+42.108069 Encerrei tarefa   464
+42.108131 Encerrei tarefa   465
+42.108192 Encerrei tarefa   466
+42.108254 Encerrei tarefa   467
+42.108316 Encerrei tarefa   468
+42.108377 Encerrei tarefa   469
+42.108439 Encerrei tarefa   470
+42.108501 Encerrei tarefa   471
+42.108562 Encerrei tarefa   472
+42.108624 Encerrei tarefa   473
+42.108746 Encerrei tarefa   474
+42.108810 Encerrei tarefa   475
+42.108872 Encerrei tarefa   476
+42.108933 Encerrei tarefa   477
+42.108995 Encerrei tarefa   478
+42.109056 Encerrei tarefa   479
+42.109118 Encerrei tarefa   480
+42.109238 Encerrei tarefa   481
+42.109304 Encerrei tarefa   482
+42.109366 Encerrei tarefa   483
+42.109428 Encerrei tarefa   484
+42.109490 Encerrei tarefa   485
+42.109552 Encerrei tarefa   486
+42.109695 Encerrei tarefa   487
+42.109786 Encerrei tarefa   488
+42.109890 Encerrei tarefa   489
+42.109975 Encerrei tarefa   490
+42.110059 Encerrei tarefa   491
+42.110143 Encerrei tarefa   492
+42.110228 Encerrei tarefa   493
+42.110320 Encerrei tarefa   494
+42.110411 Encerrei tarefa   495
+42.110502 Encerrei tarefa   496
+42.110645 Encerrei tarefa   497
+42.110734 Encerrei tarefa   498
+42.110814 Encerrei tarefa   499
+42.110894 Encerrei tarefa   500
+42.110973 Encerrei tarefa   501
+42.111052 Encerrei tarefa   502
+42.111131 Encerrei tarefa   503
+42.111211 Encerrei tarefa   504
+42.111290 Encerrei tarefa   505
+42.111369 Encerrei tarefa   506
+42.111448 Encerrei tarefa   507
+42.111528 Encerrei tarefa   508
+42.111723 Encerrei tarefa   509
+42.111807 Encerrei tarefa   510
+42.111887 Encerrei tarefa   511
+42.111967 Encerrei tarefa   512
+42.112046 Encerrei tarefa   513
+42.112127 Encerrei tarefa   514
+42.112207 Encerrei tarefa   515
+42.112287 Encerrei tarefa   516
+42.112366 Encerrei tarefa   517
+42.112445 Encerrei tarefa   518
+42.112525 Encerrei tarefa   519
+42.112676 Encerrei tarefa   520
+42.112755 Encerrei tarefa   521
+42.112835 Encerrei tarefa   522
+42.112942 Encerrei tarefa   523
+42.113023 Encerrei tarefa   524
+42.113506 Encerrei tarefa   525
+42.113888 Encerrei tarefa   526
+42.113971 Encerrei tarefa   527
+42.114052 Encerrei tarefa   528
+42.114134 Encerrei tarefa   529
+42.114215 Encerrei tarefa   530
+42.114360 Encerrei tarefa   531
+42.114445 Encerrei tarefa   532
+42.114687 Encerrei tarefa   533
+42.114772 Encerrei tarefa   534
+42.114853 Encerrei tarefa   535
+42.114933 Encerrei tarefa   536
+42.115016 Encerrei tarefa   537
+42.115099 Encerrei tarefa   538
+42.115181 Encerrei tarefa   539
+42.115263 Encerrei tarefa   540
+42.115345 Encerrei tarefa   541
+42.115426 Encerrei tarefa   542
+42.115721 Encerrei tarefa   543
+42.115807 Encerrei tarefa   544
+42.115890 Encerrei tarefa   545
+42.115969 Encerrei tarefa   546
+42.116047 Encerrei tarefa   547
+42.116125 Encerrei tarefa   548
+42.116203 Encerrei tarefa   549
+42.116281 Encerrei tarefa   550
+42.116359 Encerrei tarefa   551
+42.116438 Encerrei tarefa   552
+42.116647 Encerrei tarefa   553
+42.116748 Encerrei tarefa   554
+42.116828 Encerrei tarefa   555
+42.116913 Encerrei tarefa   556
+42.116998 Encerrei tarefa   557
+42.117166 Encerrei tarefa   558
+42.117249 Encerrei tarefa   559
+42.117328 Encerrei tarefa   560
+42.117410 Encerrei tarefa   561
+42.117619 Encerrei tarefa   562
+42.117703 Encerrei tarefa   563
+42.117784 Encerrei tarefa   564
+42.117867 Encerrei tarefa   565
+42.117949 Encerrei tarefa   566
+42.118030 Encerrei tarefa   567
+42.118112 Encerrei tarefa   568
+42.118194 Encerrei tarefa   569
+42.118276 Encerrei tarefa   570
+42.118358 Encerrei tarefa   571
+42.118479 Encerrei tarefa   572
+42.118564 Encerrei tarefa   573
+42.118646 Encerrei tarefa   574
+42.118728 Encerrei tarefa   575
+42.118810 Encerrei tarefa   576
+42.118892 Encerrei tarefa   577
+42.118973 Encerrei tarefa   578
+42.119055 Encerrei tarefa   579
+42.119137 Encerrei tarefa   580
+42.119219 Encerrei tarefa   581
+42.119301 Encerrei tarefa   582
+42.119418 Encerrei tarefa   583
+42.119505 Encerrei tarefa   584
+42.119587 Encerrei tarefa   585
+42.119669 Encerrei tarefa   586
+42.119752 Encerrei tarefa   587
+42.119834 Encerrei tarefa   588
+42.119915 Encerrei tarefa   589
+42.119997 Encerrei tarefa   590
+42.120079 Encerrei tarefa   591
+42.120161 Encerrei tarefa   592
+42.120243 Encerrei tarefa   593
+42.120325 Encerrei tarefa   594
+42.120447 Encerrei tarefa   595
+42.120531 Encerrei tarefa   596
+42.120613 Encerrei tarefa   597
+42.120695 Encerrei tarefa   598
+42.120778 Encerrei tarefa   599
+42.120860 Encerrei tarefa   600
+42.120942 Encerrei tarefa   601
+42.121025 Encerrei tarefa   602
+42.121107 Encerrei tarefa   603
+42.121189 Encerrei tarefa   604
+42.121271 Encerrei tarefa   605
+42.121499 Encerrei tarefa   606
+42.121582 Encerrei tarefa   607
+42.121663 Encerrei tarefa   608
+42.121746 Encerrei tarefa   609
+42.121827 Encerrei tarefa   610
+42.121909 Encerrei tarefa   611
+42.121990 Encerrei tarefa   612
+42.122074 Encerrei tarefa   613
+42.122156 Encerrei tarefa   614
+42.122238 Encerrei tarefa   615
+42.122355 Encerrei tarefa   616
+42.122441 Encerrei tarefa   617
+42.122523 Encerrei tarefa   618
+42.122605 Encerrei tarefa   619
+42.122687 Encerrei tarefa   620
+42.122769 Encerrei tarefa   621
+42.122851 Encerrei tarefa   622
+42.122933 Encerrei tarefa   623
+42.123014 Encerrei tarefa   624
+42.123096 Encerrei tarefa   625
+42.123178 Encerrei tarefa   626
+42.123260 Encerrei tarefa   627
+42.123427 Encerrei tarefa   628
+42.123511 Encerrei tarefa   629
+42.123594 Encerrei tarefa   630
+42.123676 Encerrei tarefa   631
+42.123758 Encerrei tarefa   632
+42.123840 Encerrei tarefa   633
+42.123922 Encerrei tarefa   634
+42.124004 Encerrei tarefa   635
+42.124086 Encerrei tarefa   636
+42.124168 Encerrei tarefa   637
+42.124249 Encerrei tarefa   638
+42.124374 Encerrei tarefa   639
+42.124455 Encerrei tarefa   640
+42.124535 Encerrei tarefa   641
+42.124616 Encerrei tarefa   642
+42.124695 Encerrei tarefa   643
+42.124775 Encerrei tarefa   644
+42.124855 Encerrei tarefa   645
+42.124937 Encerrei tarefa   646
+42.125017 Encerrei tarefa   647
+42.125098 Encerrei tarefa   648
+42.125179 Encerrei tarefa   649
+42.125397 Encerrei tarefa   650
+42.125504 Encerrei tarefa   651
+42.125583 Encerrei tarefa   652
+42.125665 Encerrei tarefa   653
+42.125753 Encerrei tarefa   654
+42.125833 Encerrei tarefa   655
+42.125909 Encerrei tarefa   656
+42.125994 Encerrei tarefa   657
+42.126075 Encerrei tarefa   658
+42.126155 Encerrei tarefa   659
+42.126329 Encerrei tarefa   660
+42.126417 Encerrei tarefa   661
+42.126498 Encerrei tarefa   662
+42.126580 Encerrei tarefa   663
+42.126660 Encerrei tarefa   664
+42.126741 Encerrei tarefa   665
+42.126821 Encerrei tarefa   666
+42.126902 Encerrei tarefa   667
+42.126982 Encerrei tarefa   668
+42.127062 Encerrei tarefa   669
+42.127142 Encerrei tarefa   670
+42.127298 Encerrei tarefa   671
+42.127382 Encerrei tarefa   672
+42.127462 Encerrei tarefa   673
+42.127545 Encerrei tarefa   674
+42.127630 Encerrei tarefa   675
+42.127714 Encerrei tarefa   676
+42.127795 Encerrei tarefa   677
+42.127875 Encerrei tarefa   678
+42.127956 Encerrei tarefa   679
+42.128034 Encerrei tarefa   680
+42.128114 Encerrei tarefa   681
+42.128293 Encerrei tarefa   682
+42.128377 Encerrei tarefa   683
+42.128456 Encerrei tarefa   684
+42.128535 Encerrei tarefa   685
+42.128617 Encerrei tarefa   686
+42.128696 Encerrei tarefa   687
+42.128776 Encerrei tarefa   688
+42.128855 Encerrei tarefa   689
+42.128935 Encerrei tarefa   690
+42.129016 Encerrei tarefa   691
+42.129096 Encerrei tarefa   692
+42.130775 Encerrei tarefa   693
+42.130871 Encerrei tarefa   694
+42.130953 Encerrei tarefa   695
+42.131033 Encerrei tarefa   696
+42.131160 Encerrei tarefa   697
+42.131246 Encerrei tarefa   698
+42.131326 Encerrei tarefa   699
+42.131391 Encerrei tarefa   700
+42.131452 Encerrei tarefa   701
+42.131514 Encerrei tarefa   702
+42.131575 Encerrei tarefa   703
+42.131637 Encerrei tarefa   704
+42.131704 Encerrei tarefa   705
+42.131781 Encerrei tarefa   706
+42.131845 Encerrei tarefa   707
+42.131906 Encerrei tarefa   708
+42.131968 Encerrei tarefa   709
+42.132030 Encerrei tarefa   710
+42.132143 Encerrei tarefa   711
+42.132216 Encerrei tarefa   712
+42.132278 Encerrei tarefa   713
+42.132340 Encerrei tarefa   714
+42.132401 Encerrei tarefa   715
+42.132463 Encerrei tarefa   716
+42.132524 Encerrei tarefa   717
+42.132586 Encerrei tarefa   718
+42.132647 Encerrei tarefa   719
+42.132709 Encerrei tarefa   720
+42.132770 Encerrei tarefa   721
+42.132832 Encerrei tarefa   722
+42.132893 Encerrei tarefa   723
+42.132955 Encerrei tarefa   724
+42.133017 Encerrei tarefa   725
+42.133144 Encerrei tarefa   726
+42.133227 Encerrei tarefa   727
+42.133307 Encerrei tarefa   728
+42.133387 Encerrei tarefa   729
+42.133467 Encerrei tarefa   730
+42.133636 Encerrei tarefa   731
+42.133729 Encerrei tarefa   732
+42.133810 Encerrei tarefa   733
+42.133890 Encerrei tarefa   734
+42.133970 Encerrei tarefa   735
+42.134051 Encerrei tarefa   736
+42.134131 Encerrei tarefa   737
+42.134210 Encerrei tarefa   738
+42.134290 Encerrei tarefa   739
+42.134373 Encerrei tarefa   740
+42.134453 Encerrei tarefa   741
+42.134570 Encerrei tarefa   742
+42.134657 Encerrei tarefa   743
+42.134734 Encerrei tarefa   744
+42.134797 Encerrei tarefa   745
+42.134858 Encerrei tarefa   746
+42.134920 Encerrei tarefa   747
+42.134982 Encerrei tarefa   748
+42.135043 Encerrei tarefa   749
+42.135105 Encerrei tarefa   750
+42.135166 Encerrei tarefa   751
+42.135228 Encerrei tarefa   752
+42.135289 Encerrei tarefa   753
+42.135351 Encerrei tarefa   754
+42.135412 Encerrei tarefa   755
+42.135474 Encerrei tarefa   756
+42.135590 Encerrei tarefa   757
+42.135656 Encerrei tarefa   758
+42.135718 Encerrei tarefa   759
+42.135780 Encerrei tarefa   760
+42.135841 Encerrei tarefa   761
+42.135903 Encerrei tarefa   762
+42.135964 Encerrei tarefa   763
+42.136026 Encerrei tarefa   764
+42.136087 Encerrei tarefa   765
+42.136149 Encerrei tarefa   766
+42.136210 Encerrei tarefa   767
+42.136272 Encerrei tarefa   768
+42.136333 Encerrei tarefa   769
+42.136395 Encerrei tarefa   770
+42.136456 Encerrei tarefa   771
+42.136573 Encerrei tarefa   772
+42.136656 Encerrei tarefa   773
+42.136737 Encerrei tarefa   774
+42.136818 Encerrei tarefa   775
+42.136899 Encerrei tarefa   776
+42.136981 Encerrei tarefa   777
+42.137062 Encerrei tarefa   778
+42.137166 Encerrei tarefa   779
+42.137249 Encerrei tarefa   780
+42.137526 Encerrei tarefa   781
+42.137618 Encerrei tarefa   782
+42.137702 Encerrei tarefa   783
+42.137784 Encerrei tarefa   784
+42.137866 Encerrei tarefa   785
+42.137950 Encerrei tarefa   786
+42.138031 Encerrei tarefa   787
+42.138113 Encerrei tarefa   788
+42.138194 Encerrei tarefa   789
+42.138276 Encerrei tarefa   790
+42.138358 Encerrei tarefa   791
+42.138495 Encerrei tarefa   792
+42.138581 Encerrei tarefa   793
+42.138663 Encerrei tarefa   794
+42.138745 Encerrei tarefa   795
+42.138826 Encerrei tarefa   796
+42.138908 Encerrei tarefa   797
+42.138990 Encerrei tarefa   798
+42.139072 Encerrei tarefa   799
+42.139153 Encerrei tarefa   800
+42.139235 Encerrei tarefa   801
+42.139316 Encerrei tarefa   802
+42.139398 Encerrei tarefa   803
+42.139537 Encerrei tarefa   804
+42.139620 Encerrei tarefa   805
+42.139702 Encerrei tarefa   806
+42.139784 Encerrei tarefa   807
+42.139865 Encerrei tarefa   808
+42.139948 Encerrei tarefa   809
+42.140029 Encerrei tarefa   810
+42.140110 Encerrei tarefa   811
+42.140190 Encerrei tarefa   812
+42.140272 Encerrei tarefa   813
+42.140354 Encerrei tarefa   814
+42.140506 Encerrei tarefa   815
+42.140589 Encerrei tarefa   816
+42.140670 Encerrei tarefa   817
+42.140751 Encerrei tarefa   818
+42.140833 Encerrei tarefa   819
+42.140913 Encerrei tarefa   820
+42.140993 Encerrei tarefa   821
+42.141074 Encerrei tarefa   822
+42.141155 Encerrei tarefa   823
+42.141235 Encerrei tarefa   824
+42.141461 Encerrei tarefa   825
+42.141544 Encerrei tarefa   826
+42.141625 Encerrei tarefa   827
+42.141705 Encerrei tarefa   828
+42.141786 Encerrei tarefa   829
+42.141867 Encerrei tarefa   830
+42.141947 Encerrei tarefa   831
+42.142028 Encerrei tarefa   832
+42.142108 Encerrei tarefa   833
+42.142189 Encerrei tarefa   834
+42.142269 Encerrei tarefa   835
+42.142446 Encerrei tarefa   836
+42.142528 Encerrei tarefa   837
+42.142592 Encerrei tarefa   838
+42.142654 Encerrei tarefa   839
+42.142715 Encerrei tarefa   840
+42.142777 Encerrei tarefa   841
+42.142839 Encerrei tarefa   842
+42.142900 Encerrei tarefa   843
+42.142963 Encerrei tarefa   844
+42.143028 Encerrei tarefa   845
+42.143094 Encerrei tarefa   846
+42.143162 Encerrei tarefa   847
+42.143230 Encerrei tarefa   848
+42.143298 Encerrei tarefa   849
+42.143475 Encerrei tarefa   850
+42.143543 Encerrei tarefa   851
+42.143605 Encerrei tarefa   852
+42.143666 Encerrei tarefa   853
+42.143728 Encerrei tarefa   854
+42.143790 Encerrei tarefa   855
+42.143852 Encerrei tarefa   856
+42.143914 Encerrei tarefa   857
+42.143976 Encerrei tarefa   858
+42.144037 Encerrei tarefa   859
+42.144099 Encerrei tarefa   860
+42.144160 Encerrei tarefa   861
+42.144236 Encerrei tarefa   862
+42.144424 Encerrei tarefa   863
+42.144512 Encerrei tarefa   864
+42.144594 Encerrei tarefa   865
+42.144674 Encerrei tarefa   866
+42.144755 Encerrei tarefa   867
+42.144835 Encerrei tarefa   868
+42.144915 Encerrei tarefa   869
+42.144997 Encerrei tarefa   870
+42.145077 Encerrei tarefa   871
+42.145157 Encerrei tarefa   872
+42.145238 Encerrei tarefa   873
+42.145437 Encerrei tarefa   874
+42.145523 Encerrei tarefa   875
+42.145610 Encerrei tarefa   876
+42.145691 Encerrei tarefa   877
+42.145773 Encerrei tarefa   878
+42.145856 Encerrei tarefa   879
+42.145920 Encerrei tarefa   880
+42.145982 Encerrei tarefa   881
+42.146044 Encerrei tarefa   882
+42.146106 Encerrei tarefa   883
+42.146167 Encerrei tarefa   884
+42.146230 Encerrei tarefa   885
+42.146436 Encerrei tarefa   886
+42.146521 Encerrei tarefa   887
+42.146606 Encerrei tarefa   888
+42.146671 Encerrei tarefa   889
+42.146733 Encerrei tarefa   890
+42.146795 Encerrei tarefa   891
+42.146856 Encerrei tarefa   892
+42.146917 Encerrei tarefa   893
+42.146979 Encerrei tarefa   894
+42.147040 Encerrei tarefa   895
+42.147101 Encerrei tarefa   896
+42.147163 Encerrei tarefa   897
+42.147263 Encerrei tarefa   898
+42.147347 Encerrei tarefa   899
+42.147410 Encerrei tarefa   900
+42.147472 Encerrei tarefa   901
+42.147534 Encerrei tarefa   902
+42.147595 Encerrei tarefa   903
+42.147657 Encerrei tarefa   904
+42.147719 Encerrei tarefa   905
+42.147780 Encerrei tarefa   906
+42.147862 Encerrei tarefa   907
+42.147925 Encerrei tarefa   908
+42.147987 Encerrei tarefa   909
+42.148048 Encerrei tarefa   910
+42.148110 Encerrei tarefa   911
+42.148171 Encerrei tarefa   912
+42.148289 Encerrei tarefa   913
+42.148371 Encerrei tarefa   914
+42.148451 Encerrei tarefa   915
+42.148532 Encerrei tarefa   916
+42.148613 Encerrei tarefa   917
+42.148693 Encerrei tarefa   918
+42.148774 Encerrei tarefa   919
+42.148854 Encerrei tarefa   920
+42.148933 Encerrei tarefa   921
+42.149013 Encerrei tarefa   922
+42.149094 Encerrei tarefa   923
+42.149174 Encerrei tarefa   924
+42.149297 Encerrei tarefa   925
+42.149379 Encerrei tarefa   926
+42.149459 Encerrei tarefa   927
+42.149540 Encerrei tarefa   928
+42.149621 Encerrei tarefa   929
+42.149790 Encerrei tarefa   930
+42.149881 Encerrei tarefa   931
+42.149962 Encerrei tarefa   932
+42.150043 Encerrei tarefa   933
+42.150124 Encerrei tarefa   934
+42.150251 Encerrei tarefa   935
+42.150316 Encerrei tarefa   936
+42.150379 Encerrei tarefa   937
+42.150441 Encerrei tarefa   938
+42.150502 Encerrei tarefa   939
+42.150564 Encerrei tarefa   940
+42.150625 Encerrei tarefa   941
+42.150687 Encerrei tarefa   942
+42.150749 Encerrei tarefa   943
+42.150810 Encerrei tarefa   944
+42.150872 Encerrei tarefa   945
+42.150934 Encerrei tarefa   946
+42.150995 Encerrei tarefa   947
+42.151057 Encerrei tarefa   948
+42.151118 Encerrei tarefa   949
+42.151243 Encerrei tarefa   950
+42.151324 Encerrei tarefa   951
+42.151406 Encerrei tarefa   952
+42.151486 Encerrei tarefa   953
+42.151566 Encerrei tarefa   954
+42.151648 Encerrei tarefa   955
+42.151728 Encerrei tarefa   956
+42.151808 Encerrei tarefa   957
+42.151889 Encerrei tarefa   958
+42.151969 Encerrei tarefa   959
+42.152050 Encerrei tarefa   960
+42.152174 Encerrei tarefa   961
+42.152258 Encerrei tarefa   962
+42.152339 Encerrei tarefa   963
+42.152419 Encerrei tarefa   964
+42.152500 Encerrei tarefa   965
+42.152580 Encerrei tarefa   966
+42.152661 Encerrei tarefa   967
+42.152741 Encerrei tarefa   968
+42.152822 Encerrei tarefa   969
+42.152903 Encerrei tarefa   970
+42.152983 Encerrei tarefa   971
+42.153064 Encerrei tarefa   972
+42.153222 Encerrei tarefa   973
+42.153305 Encerrei tarefa   974
+42.153387 Encerrei tarefa   975
+42.153467 Encerrei tarefa   976
+42.153548 Encerrei tarefa   977
+42.153630 Encerrei tarefa   978
+42.153800 Encerrei tarefa   979
+42.153881 Encerrei tarefa   980
+42.153962 Encerrei tarefa   981
+42.154043 Encerrei tarefa   982
+42.154165 Encerrei tarefa   983
+42.154229 Encerrei tarefa   984
+42.154352 Encerrei tarefa   985
+42.154439 Encerrei tarefa   986
+42.154520 Encerrei tarefa   987
+42.154601 Encerrei tarefa   988
+42.154682 Encerrei tarefa   989
+42.154763 Encerrei tarefa   990
+42.154843 Encerrei tarefa   991
+42.154925 Encerrei tarefa   992
+42.155008 Encerrei tarefa   993
+42.155147 Encerrei tarefa   994
+42.155233 Encerrei tarefa   995
+42.155426 Encerrei tarefa   996
+42.155508 Encerrei tarefa   997
+42.155587 Encerrei tarefa   998
+42.155667 Encerrei tarefa   999
+42.155747 Encerrei tarefa  1000
+42.155826 main: fim
+---------- TASK 3 ----------
+42.335602 main: inicio
+42.335828 Estou na tarefa     1
+42.335900 Estou na tarefa     2
+42.335964 Estou na tarefa     3
+42.336028 Estou na tarefa     4
+42.336091 Estou na tarefa     5
+42.336153 Estou na tarefa     6
+42.336215 Estou na tarefa     7
+42.336277 Estou na tarefa     8
+42.336339 Estou na tarefa     9
+42.336401 Estou na tarefa    10
+42.336463 Estou na tarefa    11
+42.336525 Estou na tarefa    12
+42.336587 Estou na tarefa    13
+42.336708 Estou na tarefa    14
+42.336778 Estou na tarefa    15
+42.336840 Estou na tarefa    16
+42.336902 Estou na tarefa    17
+42.336964 Estou na tarefa    18
+42.337025 Estou na tarefa    19
+42.337087 Estou na tarefa    20
+42.337149 Estou na tarefa    21
+42.337210 Estou na tarefa    22
+42.337375 Estou na tarefa    23
+42.337449 Estou na tarefa    24
+42.337512 Estou na tarefa    25
+42.337574 Estou na tarefa    26
+42.337695 Estou na tarefa    27
+42.337778 Estou na tarefa    28
+42.337858 Estou na tarefa    29
+42.337938 Estou na tarefa    30
+42.338017 Estou na tarefa    31
+42.338098 Estou na tarefa    32
+42.338201 Estou na tarefa    33
+42.338284 Estou na tarefa    34
+42.338365 Estou na tarefa    35
+42.338446 Estou na tarefa    36
+42.338527 Estou na tarefa    37
+42.338711 Estou na tarefa    38
+42.338805 Estou na tarefa    39
+42.338886 Estou na tarefa    40
+42.338966 Estou na tarefa    41
+42.339046 Estou na tarefa    42
+42.339125 Estou na tarefa    43
+42.339204 Estou na tarefa    44
+42.339284 Estou na tarefa    45
+42.339364 Estou na tarefa    46
+42.339445 Estou na tarefa    47
+42.339526 Estou na tarefa    48
+42.339667 Estou na tarefa    49
+42.339749 Estou na tarefa    50
+42.339830 Estou na tarefa    51
+42.339911 Estou na tarefa    52
+42.339990 Estou na tarefa    53
+42.340070 Estou na tarefa    54
+42.340150 Estou na tarefa    55
+42.340230 Estou na tarefa    56
+42.340310 Estou na tarefa    57
+42.340391 Estou na tarefa    58
+42.340472 Estou na tarefa    59
+42.340605 Estou na tarefa    60
+42.340690 Estou na tarefa    61
+42.340770 Estou na tarefa    62
+42.340850 Estou na tarefa    63
+42.340932 Estou na tarefa    64
+42.341011 Estou na tarefa    65
+42.341091 Estou na tarefa    66
+42.341171 Estou na tarefa    67
+42.341252 Estou na tarefa    68
+42.341449 Estou na tarefa    69
+42.341589 Estou na tarefa    70
+42.341672 Estou na tarefa    71
+42.341753 Estou na tarefa    72
+42.341833 Estou na tarefa    73
+42.341914 Estou na tarefa    74
+42.341995 Estou na tarefa    75
+42.342075 Estou na tarefa    76
+42.342155 Estou na tarefa    77
+42.342236 Estou na tarefa    78
+42.342316 Estou na tarefa    79
+42.342399 Estou na tarefa    80
+42.342538 Estou na tarefa    81
+42.342628 Estou na tarefa    82
+42.342711 Estou na tarefa    83
+42.342799 Estou na tarefa    84
+42.342894 Estou na tarefa    85
+42.342987 Estou na tarefa    86
+42.343080 Estou na tarefa    87
+42.343165 Estou na tarefa    88
+42.343246 Estou na tarefa    89
+42.343327 Estou na tarefa    90
+42.343407 Estou na tarefa    91
+42.343596 Estou na tarefa    92
+42.343670 Estou na tarefa    93
+42.343733 Estou na tarefa    94
+42.343795 Estou na tarefa    95
+42.343857 Estou na tarefa    96
+42.343918 Estou na tarefa    97
+42.343980 Estou na tarefa    98
+42.344042 Estou na tarefa    99
+42.344103 Estou na tarefa   100
+42.344165 Estou na tarefa   101
+42.344227 Estou na tarefa   102
+42.344300 Estou na tarefa   103
+42.344382 Estou na tarefa   104
+42.344605 Estou na tarefa   105
+42.344688 Estou na tarefa   106
+42.344765 Estou na tarefa   107
+42.344843 Estou na tarefa   108
+42.344921 Estou na tarefa   109
+42.344999 Estou na tarefa   110
+42.345079 Estou na tarefa   111
+42.345158 Estou na tarefa   112
+42.345237 Estou na tarefa   113
+42.345614 Estou na tarefa   114
+42.345698 Estou na tarefa   115
+42.345779 Estou na tarefa   116
+42.345843 Estou na tarefa   117
+42.345905 Estou na tarefa   118
+42.345967 Estou na tarefa   119
+42.346028 Estou na tarefa   120
+42.346090 Estou na tarefa   121
+42.346151 Estou na tarefa   122
+42.346213 Estou na tarefa   123
+42.346274 Estou na tarefa   124
+42.346336 Estou na tarefa   125
+42.346490 Estou na tarefa   126
+42.346579 Estou na tarefa   127
+42.346659 Estou na tarefa   128
+42.346744 Estou na tarefa   129
+42.346826 Estou na tarefa   130
+42.346907 Estou na tarefa   131
+42.346987 Estou na tarefa   132
+42.347068 Estou na tarefa   133
+42.347149 Estou na tarefa   134
+42.347229 Estou na tarefa   135
+42.347309 Estou na tarefa   136
+42.347472 Estou na tarefa   137
+42.347558 Estou na tarefa   138
+42.347638 Estou na tarefa   139
+42.347718 Estou na tarefa   140
+42.347798 Estou na tarefa   141
+42.347877 Estou na tarefa   142
+42.347956 Estou na tarefa   143
+42.348035 Estou na tarefa   144
+42.348114 Estou na tarefa   145
+42.348193 Estou na tarefa   146
+42.348272 Estou na tarefa   147
+42.348440 Estou na tarefa   148
+42.348523 Estou na tarefa   149
+42.348604 Estou na tarefa   150
+42.348683 Estou na tarefa   151
+42.348762 Estou na tarefa   152
+42.348843 Estou na tarefa   153
+42.348922 Estou na tarefa   154
+42.349001 Estou na tarefa   155
+42.349080 Estou na tarefa   156
+42.349160 Estou na tarefa   157
+42.349404 Estou na tarefa   158
+42.349495 Estou na tarefa   159
+42.349575 Estou na tarefa   160
+42.349677 Estou na tarefa   161
+42.349759 Estou na tarefa   162
+42.349839 Estou na tarefa   163
+42.349920 Estou na tarefa   164
+42.350000 Estou na tarefa   165
+42.350080 Estou na tarefa   166
+42.350160 Estou na tarefa   167
+42.350240 Estou na tarefa   168
+42.350373 Estou na tarefa   169
+42.350456 Estou na tarefa   170
+42.350537 Estou na tarefa   171
+42.350617 Estou na tarefa   172
+42.350699 Estou na tarefa   173
+42.350779 Estou na tarefa   174
+42.350860 Estou na tarefa   175
+42.350941 Estou na tarefa   176
+42.351022 Estou na tarefa   177
+42.351103 Estou na tarefa   178
+42.351184 Estou na tarefa   179
+42.351312 Estou na tarefa   180
+42.351401 Estou na tarefa   181
+42.351482 Estou na tarefa   182
+42.351564 Estou na tarefa   183
+42.351645 Estou na tarefa   184
+42.351726 Estou na tarefa   185
+42.351807 Estou na tarefa   186
+42.351889 Estou na tarefa   187
+42.351969 Estou na tarefa   188
+42.352051 Estou na tarefa   189
+42.352131 Estou na tarefa   190
+42.352213 Estou na tarefa   191
+42.352362 Estou na tarefa   192
+42.352447 Estou na tarefa   193
+42.352529 Estou na tarefa   194
+42.352601 Estou na tarefa   195
+42.352664 Estou na tarefa   196
+42.352725 Estou na tarefa   197
+42.352787 Estou na tarefa   198
+42.352849 Estou na tarefa   199
+42.352911 Estou na tarefa   200
+42.352972 Estou na tarefa   201
+42.353034 Estou na tarefa   202
+42.353096 Estou na tarefa   203
+42.353157 Estou na tarefa   204
+42.353272 Estou na tarefa   205
+42.353365 Estou na tarefa   206
+42.353447 Estou na tarefa   207
+42.353528 Estou na tarefa   208
+42.353609 Estou na tarefa   209
+42.353691 Estou na tarefa   210
+42.353869 Estou na tarefa   211
+42.353954 Estou na tarefa   212
+42.354035 Estou na tarefa   213
+42.354117 Estou na tarefa   214
+42.354246 Estou na tarefa   215
+42.354333 Estou na tarefa   216
+42.354415 Estou na tarefa   217
+42.354496 Estou na tarefa   218
+42.354578 Estou na tarefa   219
+42.354661 Estou na tarefa   220
+42.354744 Estou na tarefa   221
+42.354826 Estou na tarefa   222
+42.354908 Estou na tarefa   223
+42.354990 Estou na tarefa   224
+42.355072 Estou na tarefa   225
+42.355155 Estou na tarefa   226
+42.355297 Estou na tarefa   227
+42.355376 Estou na tarefa   228
+42.355453 Estou na tarefa   229
+42.355530 Estou na tarefa   230
+42.355606 Estou na tarefa   231
+42.355682 Estou na tarefa   232
+42.355759 Estou na tarefa   233
+42.355823 Estou na tarefa   234
+42.355884 Estou na tarefa   235
+42.355946 Estou na tarefa   236
+42.356007 Estou na tarefa   237
+42.356069 Estou na tarefa   238
+42.356130 Estou na tarefa   239
+42.356261 Estou na tarefa   240
+42.356326 Estou na tarefa   241
+42.356388 Estou na tarefa   242
+42.356450 Estou na tarefa   243
+42.356511 Estou na tarefa   244
+42.356573 Estou na tarefa   245
+42.356634 Estou na tarefa   246
+42.356696 Estou na tarefa   247
+42.356757 Estou na tarefa   248
+42.356819 Estou na tarefa   249
+42.356881 Estou na tarefa   250
+42.356942 Estou na tarefa   251
+42.357004 Estou na tarefa   252
+42.357065 Estou na tarefa   253
+42.357183 Estou na tarefa   254
+42.357274 Estou na tarefa   255
+42.357355 Estou na tarefa   256
+42.357436 Estou na tarefa   257
+42.357517 Estou na tarefa   258
+42.357598 Estou na tarefa   259
+42.357772 Estou na tarefa   260
+42.357857 Estou na tarefa   261
+42.357939 Estou na tarefa   262
+42.358020 Estou na tarefa   263
+42.358146 Estou na tarefa   264
+42.358234 Estou na tarefa   265
+42.358316 Estou na tarefa   266
+42.358398 Estou na tarefa   267
+42.358479 Estou na tarefa   268
+42.358561 Estou na tarefa   269
+42.358643 Estou na tarefa   270
+42.358724 Estou na tarefa   271
+42.358807 Estou na tarefa   272
+42.358888 Estou na tarefa   273
+42.358970 Estou na tarefa   274
+42.359051 Estou na tarefa   275
+42.359191 Estou na tarefa   276
+42.359274 Estou na tarefa   277
+42.359355 Estou na tarefa   278
+42.359437 Estou na tarefa   279
+42.359519 Estou na tarefa   280
+42.359600 Estou na tarefa   281
+42.359681 Estou na tarefa   282
+42.359763 Estou na tarefa   283
+42.359844 Estou na tarefa   284
+42.359925 Estou na tarefa   285
+42.360006 Estou na tarefa   286
+42.360164 Estou na tarefa   287
+42.360249 Estou na tarefa   288
+42.360353 Estou na tarefa   289
+42.360436 Estou na tarefa   290
+42.360518 Estou na tarefa   291
+42.360600 Estou na tarefa   292
+42.360682 Estou na tarefa   293
+42.360764 Estou na tarefa   294
+42.360846 Estou na tarefa   295
+42.360927 Estou na tarefa   296
+42.361009 Estou na tarefa   297
+42.361191 Estou na tarefa   298
+42.361275 Estou na tarefa   299
+42.361358 Estou na tarefa   300
+42.361440 Estou na tarefa   301
+42.361522 Estou na tarefa   302
+42.361605 Estou na tarefa   303
+42.361687 Estou na tarefa   304
+42.361770 Estou na tarefa   305
+42.361938 Estou na tarefa   306
+42.362086 Estou na tarefa   307
+42.362176 Estou na tarefa   308
+42.362259 Estou na tarefa   309
+42.362339 Estou na tarefa   310
+42.362419 Estou na tarefa   311
+42.362499 Estou na tarefa   312
+42.362578 Estou na tarefa   313
+42.362658 Estou na tarefa   314
+42.362738 Estou na tarefa   315
+42.362821 Estou na tarefa   316
+42.362901 Estou na tarefa   317
+42.363111 Estou na tarefa   318
+42.363214 Estou na tarefa   319
+42.363296 Estou na tarefa   320
+42.363378 Estou na tarefa   321
+42.363461 Estou na tarefa   322
+42.363542 Estou na tarefa   323
+42.363624 Estou na tarefa   324
+42.363704 Estou na tarefa   325
+42.363787 Estou na tarefa   326
+42.363872 Estou na tarefa   327
+42.364028 Estou na tarefa   328
+42.364128 Estou na tarefa   329
+42.364209 Estou na tarefa   330
+42.364296 Estou na tarefa   331
+42.364384 Estou na tarefa   332
+42.364464 Estou na tarefa   333
+42.364544 Estou na tarefa   334
+42.364623 Estou na tarefa   335
+42.364703 Estou na tarefa   336
+42.364784 Estou na tarefa   337
+42.364863 Estou na tarefa   338
+42.365092 Estou na tarefa   339
+42.365181 Estou na tarefa   340
+42.365261 Estou na tarefa   341
+42.365342 Estou na tarefa   342
+42.365421 Estou na tarefa   343
+42.365502 Estou na tarefa   344
+42.365582 Estou na tarefa   345
+42.365663 Estou na tarefa   346
+42.365744 Estou na tarefa   347
+42.365824 Estou na tarefa   348
+42.365905 Estou na tarefa   349
+42.366381 Estou na tarefa   350
+42.366469 Estou na tarefa   351
+42.366551 Estou na tarefa   352
+42.366632 Estou na tarefa   353
+42.366717 Estou na tarefa   354
+42.366823 Estou na tarefa   355
+42.367062 Estou na tarefa   356
+42.367142 Estou na tarefa   357
+42.367221 Estou na tarefa   358
+42.367302 Estou na tarefa   359
+42.367388 Estou na tarefa   360
+42.367473 Estou na tarefa   361
+42.367553 Estou na tarefa   362
+42.367634 Estou na tarefa   363
+42.367713 Estou na tarefa   364
+42.367795 Estou na tarefa   365
+42.367953 Estou na tarefa   366
+42.368052 Estou na tarefa   367
+42.368137 Estou na tarefa   368
+42.368220 Estou na tarefa   369
+42.368302 Estou na tarefa   370
+42.368386 Estou na tarefa   371
+42.368510 Estou na tarefa   372
+42.368595 Estou na tarefa   373
+42.368677 Estou na tarefa   374
+42.368760 Estou na tarefa   375
+42.368880 Estou na tarefa   376
+42.368968 Estou na tarefa   377
+42.369051 Estou na tarefa   378
+42.369133 Estou na tarefa   379
+42.369216 Estou na tarefa   380
+42.369298 Estou na tarefa   381
+42.369475 Estou na tarefa   382
+42.369561 Estou na tarefa   383
+42.369643 Estou na tarefa   384
+42.369727 Estou na tarefa   385
+42.369808 Estou na tarefa   386
+42.369928 Estou na tarefa   387
+42.370011 Estou na tarefa   388
+42.370094 Estou na tarefa   389
+42.370177 Estou na tarefa   390
+42.370259 Estou na tarefa   391
+42.370342 Estou na tarefa   392
+42.370424 Estou na tarefa   393
+42.370507 Estou na tarefa   394
+42.370589 Estou na tarefa   395
+42.370672 Estou na tarefa   396
+42.370755 Estou na tarefa   397
+42.370877 Estou na tarefa   398
+42.370960 Estou na tarefa   399
+42.371043 Estou na tarefa   400
+42.371125 Estou na tarefa   401
+42.371208 Estou na tarefa   402
+42.371291 Estou na tarefa   403
+42.371374 Estou na tarefa   404
+42.371456 Estou na tarefa   405
+42.371539 Estou na tarefa   406
+42.371621 Estou na tarefa   407
+42.371706 Estou na tarefa   408
+42.371824 Estou na tarefa   409
+42.371911 Estou na tarefa   410
+42.371992 Estou na tarefa   411
+42.372076 Estou na tarefa   412
+42.372157 Estou na tarefa   413
+42.372240 Estou na tarefa   414
+42.372321 Estou na tarefa   415
+42.372404 Estou na tarefa   416
+42.372507 Estou na tarefa   417
+42.372590 Estou na tarefa   418
+42.372674 Estou na tarefa   419
+42.372792 Estou na tarefa   420
+42.372879 Estou na tarefa   421
+42.372963 Estou na tarefa   422
+42.373047 Estou na tarefa   423
+42.373128 Estou na tarefa   424
+42.373212 Estou na tarefa   425
+42.373406 Estou na tarefa   426
+42.373491 Estou na tarefa   427
+42.373573 Estou na tarefa   428
+42.373656 Estou na tarefa   429
+42.373775 Estou na tarefa   430
+42.373861 Estou na tarefa   431
+42.373943 Estou na tarefa   432
+42.374026 Estou na tarefa   433
+42.374108 Estou na tarefa   434
+42.374191 Estou na tarefa   435
+42.374273 Estou na tarefa   436
+42.374356 Estou na tarefa   437
+42.374437 Estou na tarefa   438
+42.374521 Estou na tarefa   439
+42.374603 Estou na tarefa   440
+42.374686 Estou na tarefa   441
+42.374806 Estou na tarefa   442
+42.374891 Estou na tarefa   443
+42.374973 Estou na tarefa   444
+42.375057 Estou na tarefa   445
+42.375138 Estou na tarefa   446
+42.375221 Estou na tarefa   447
+42.375303 Estou na tarefa   448
+42.375386 Estou na tarefa   449
+42.375467 Estou na tarefa   450
+42.375550 Estou na tarefa   451
+42.375632 Estou na tarefa   452
+42.375767 Estou na tarefa   453
+42.375854 Estou na tarefa   454
+42.375937 Estou na tarefa   455
+42.376022 Estou na tarefa   456
+42.376107 Estou na tarefa   457
+42.376193 Estou na tarefa   458
+42.376278 Estou na tarefa   459
+42.376360 Estou na tarefa   460
+42.376450 Estou na tarefa   461
+42.376542 Estou na tarefa   462
+42.376634 Estou na tarefa   463
+42.376788 Estou na tarefa   464
+42.376881 Estou na tarefa   465
+42.376963 Estou na tarefa   466
+42.377043 Estou na tarefa   467
+42.377123 Estou na tarefa   468
+42.377359 Estou na tarefa   469
+42.377444 Estou na tarefa   470
+42.377525 Estou na tarefa   471
+42.377605 Estou na tarefa   472
+42.377727 Estou na tarefa   473
+42.377809 Estou na tarefa   474
+42.377892 Estou na tarefa   475
+42.377973 Estou na tarefa   476
+42.378056 Estou na tarefa   477
+42.378138 Estou na tarefa   478
+42.378221 Estou na tarefa   479
+42.378302 Estou na tarefa   480
+42.378385 Estou na tarefa   481
+42.378467 Estou na tarefa   482
+42.378550 Estou na tarefa   483
+42.378741 Estou na tarefa   484
+42.378831 Estou na tarefa   485
+42.378915 Estou na tarefa   486
+42.378999 Estou na tarefa   487
+42.379082 Estou na tarefa   488
+42.379163 Estou na tarefa   489
+42.379246 Estou na tarefa   490
+42.379328 Estou na tarefa   491
+42.379411 Estou na tarefa   492
+42.379492 Estou na tarefa   493
+42.379575 Estou na tarefa   494
+42.379779 Estou na tarefa   495
+42.379863 Estou na tarefa   496
+42.379944 Estou na tarefa   497
+42.380025 Estou na tarefa   498
+42.380105 Estou na tarefa   499
+42.380186 Estou na tarefa   500
+42.380266 Estou na tarefa   501
+42.380346 Estou na tarefa   502
+42.380427 Estou na tarefa   503
+42.380508 Estou na tarefa   504
+42.380692 Estou na tarefa   505
+42.380780 Estou na tarefa   506
+42.380861 Estou na tarefa   507
+42.380942 Estou na tarefa   508
+42.381024 Estou na tarefa   509
+42.381105 Estou na tarefa   510
+42.381276 Estou na tarefa   511
+42.381359 Estou na tarefa   512
+42.381441 Estou na tarefa   513
+42.381522 Estou na tarefa   514
+42.381700 Estou na tarefa   515
+42.381783 Estou na tarefa   516
+42.381866 Estou na tarefa   517
+42.381947 Estou na tarefa   518
+42.382027 Estou na tarefa   519
+42.382108 Estou na tarefa   520
+42.382189 Estou na tarefa   521
+42.382271 Estou na tarefa   522
+42.382352 Estou na tarefa   523
+42.382434 Estou na tarefa   524
+42.382556 Estou na tarefa   525
+42.382645 Estou na tarefa   526
+42.382727 Estou na tarefa   527
+42.382808 Estou na tarefa   528
+42.382889 Estou na tarefa   529
+42.382970 Estou na tarefa   530
+42.383051 Estou na tarefa   531
+42.383132 Estou na tarefa   532
+42.383213 Estou na tarefa   533
+42.383294 Estou na tarefa   534
+42.383375 Estou na tarefa   535
+42.383457 Estou na tarefa   536
+42.383588 Estou na tarefa   537
+42.383673 Estou na tarefa   538
+42.383755 Estou na tarefa   539
+42.383836 Estou na tarefa   540
+42.383917 Estou na tarefa   541
+42.383999 Estou na tarefa   542
+42.384081 Estou na tarefa   543
+42.384161 Estou na tarefa   544
+42.384268 Estou na tarefa   545
+42.384350 Estou na tarefa   546
+42.384433 Estou na tarefa   547
+42.384583 Estou na tarefa   548
+42.384667 Estou na tarefa   549
+42.384749 Estou na tarefa   550
+42.384832 Estou na tarefa   551
+42.384912 Estou na tarefa   552
+42.384995 Estou na tarefa   553
+42.385145 Estou na tarefa   554
+42.385228 Estou na tarefa   555
+42.385311 Estou na tarefa   556
+42.385392 Estou na tarefa   557
+42.385552 Estou na tarefa   558
+42.385638 Estou na tarefa   559
+42.385719 Estou na tarefa   560
+42.385803 Estou na tarefa   561
+42.385884 Estou na tarefa   562
+42.385967 Estou na tarefa   563
+42.386050 Estou na tarefa   564
+42.386133 Estou na tarefa   565
+42.386213 Estou na tarefa   566
+42.386297 Estou na tarefa   567
+42.386377 Estou na tarefa   568
+42.386497 Estou na tarefa   569
+42.386581 Estou na tarefa   570
+42.386663 Estou na tarefa   571
+42.386745 Estou na tarefa   572
+42.386828 Estou na tarefa   573
+42.386910 Estou na tarefa   574
+42.386992 Estou na tarefa   575
+42.387075 Estou na tarefa   576
+42.387156 Estou na tarefa   577
+42.387239 Estou na tarefa   578
+42.387321 Estou na tarefa   579
+42.387437 Estou na tarefa   580
+42.387523 Estou na tarefa   581
+42.387606 Estou na tarefa   582
+42.387687 Estou na tarefa   583
+42.387770 Estou na tarefa   584
+42.387853 Estou na tarefa   585
+42.387934 Estou na tarefa   586
+42.388017 Estou na tarefa   587
+42.388099 Estou na tarefa   588
+42.388182 Estou na tarefa   589
+42.388263 Estou na tarefa   590
+42.388344 Estou na tarefa   591
+42.388493 Estou na tarefa   592
+42.388577 Estou na tarefa   593
+42.388659 Estou na tarefa   594
+42.388742 Estou na tarefa   595
+42.388825 Estou na tarefa   596
+42.388908 Estou na tarefa   597
+42.389074 Estou na tarefa   598
+42.389168 Estou na tarefa   599
+42.389251 Estou na tarefa   600
+42.389336 Estou na tarefa   601
+42.389520 Estou na tarefa   602
+42.389603 Estou na tarefa   603
+42.389686 Estou na tarefa   604
+42.389767 Estou na tarefa   605
+42.389850 Estou na tarefa   606
+42.389930 Estou na tarefa   607
+42.390013 Estou na tarefa   608
+42.390093 Estou na tarefa   609
+42.390176 Estou na tarefa   610
+42.390257 Estou na tarefa   611
+42.390378 Estou na tarefa   612
+42.390463 Estou na tarefa   613
+42.390545 Estou na tarefa   614
+42.390627 Estou na tarefa   615
+42.390709 Estou na tarefa   616
+42.390792 Estou na tarefa   617
+42.390874 Estou na tarefa   618
+42.390956 Estou na tarefa   619
+42.391038 Estou na tarefa   620
+42.391120 Estou na tarefa   621
+42.391203 Estou na tarefa   622
+42.391286 Estou na tarefa   623
+42.391406 Estou na tarefa   624
+42.391488 Estou na tarefa   625
+42.391571 Estou na tarefa   626
+42.391652 Estou na tarefa   627
+42.391735 Estou na tarefa   628
+42.391932 Estou na tarefa   629
+42.392020 Estou na tarefa   630
+42.392103 Estou na tarefa   631
+42.392185 Estou na tarefa   632
+42.392268 Estou na tarefa   633
+42.392385 Estou na tarefa   634
+42.392464 Estou na tarefa   635
+42.392540 Estou na tarefa   636
+42.392616 Estou na tarefa   637
+42.392731 Estou na tarefa   638
+42.392808 Estou na tarefa   639
+42.392884 Estou na tarefa   640
+42.392961 Estou na tarefa   641
+42.393038 Estou na tarefa   642
+42.393113 Estou na tarefa   643
+42.393697 Estou na tarefa   644
+42.393786 Estou na tarefa   645
+42.393862 Estou na tarefa   646
+42.393938 Estou na tarefa   647
+42.394014 Estou na tarefa   648
+42.394089 Estou na tarefa   649
+42.394166 Estou na tarefa   650
+42.394276 Estou na tarefa   651
+42.394357 Estou na tarefa   652
+42.394432 Estou na tarefa   653
+42.394511 Estou na tarefa   654
+42.394587 Estou na tarefa   655
+42.394664 Estou na tarefa   656
+42.394740 Estou na tarefa   657
+42.394817 Estou na tarefa   658
+42.394893 Estou na tarefa   659
+42.394970 Estou na tarefa   660
+42.395046 Estou na tarefa   661
+42.395122 Estou na tarefa   662
+42.395197 Estou na tarefa   663
+42.395395 Estou na tarefa   664
+42.395478 Estou na tarefa   665
+42.395560 Estou na tarefa   666
+42.395643 Estou na tarefa   667
+42.395725 Estou na tarefa   668
+42.395805 Estou na tarefa   669
+42.395887 Estou na tarefa   670
+42.395967 Estou na tarefa   671
+42.396047 Estou na tarefa   672
+42.396150 Estou na tarefa   673
+42.396334 Estou na tarefa   674
+42.396421 Estou na tarefa   675
+42.396501 Estou na tarefa   676
+42.396580 Estou na tarefa   677
+42.396661 Estou na tarefa   678
+42.396742 Estou na tarefa   679
+42.396821 Estou na tarefa   680
+42.396902 Estou na tarefa   681
+42.397087 Estou na tarefa   682
+42.397208 Estou na tarefa   683
+42.397290 Estou na tarefa   684
+42.397540 Estou na tarefa   685
+42.397633 Estou na tarefa   686
+42.397716 Estou na tarefa   687
+42.397798 Estou na tarefa   688
+42.397881 Estou na tarefa   689
+42.397961 Estou na tarefa   690
+42.398042 Estou na tarefa   691
+42.398124 Estou na tarefa   692
+42.398522 Estou na tarefa   693
+42.398605 Estou na tarefa   694
+42.398687 Estou na tarefa   695
+42.398771 Estou na tarefa   696
+42.398852 Estou na tarefa   697
+42.398935 Estou na tarefa   698
+42.399017 Estou na tarefa   699
+42.399099 Estou na tarefa   700
+42.399252 Estou na tarefa   701
+42.399337 Estou na tarefa   702
+42.399418 Estou na tarefa   703
+42.399507 Estou na tarefa   704
+42.399592 Estou na tarefa   705
+42.399673 Estou na tarefa   706
+42.399753 Estou na tarefa   707
+42.399835 Estou na tarefa   708
+42.399916 Estou na tarefa   709
+42.399997 Estou na tarefa   710
+42.400077 Estou na tarefa   711
+42.400224 Estou na tarefa   712
+42.400304 Estou na tarefa   713
+42.400385 Estou na tarefa   714
+42.400466 Estou na tarefa   715
+42.400547 Estou na tarefa   716
+42.400630 Estou na tarefa   717
+42.400719 Estou na tarefa   718
+42.400803 Estou na tarefa   719
+42.400887 Estou na tarefa   720
+42.400986 Estou na tarefa   721
+42.401143 Estou na tarefa   722
+42.401229 Estou na tarefa   723
+42.401312 Estou na tarefa   724
+42.401437 Estou na tarefa   725
+42.401521 Estou na tarefa   726
+42.401603 Estou na tarefa   727
+42.402263 Estou na tarefa   728
+42.402349 Estou na tarefa   729
+42.402430 Estou na tarefa   730
+42.402510 Estou na tarefa   731
+42.402589 Estou na tarefa   732
+42.402669 Estou na tarefa   733
+42.402749 Estou na tarefa   734
+42.402829 Estou na tarefa   735
+42.402910 Estou na tarefa   736
+42.402990 Estou na tarefa   737
+42.403129 Estou na tarefa   738
+42.403212 Estou na tarefa   739
+42.403294 Estou na tarefa   740
+42.403375 Estou na tarefa   741
+42.403456 Estou na tarefa   742
+42.403538 Estou na tarefa   743
+42.403619 Estou na tarefa   744
+42.403717 Estou na tarefa   745
+42.403799 Estou na tarefa   746
+42.403881 Estou na tarefa   747
+42.403963 Estou na tarefa   748
+42.404115 Estou na tarefa   749
+42.404199 Estou na tarefa   750
+42.404281 Estou na tarefa   751
+42.404362 Estou na tarefa   752
+42.404443 Estou na tarefa   753
+42.404527 Estou na tarefa   754
+42.404607 Estou na tarefa   755
+42.404688 Estou na tarefa   756
+42.404769 Estou na tarefa   757
+42.404851 Estou na tarefa   758
+42.404934 Estou na tarefa   759
+42.405072 Estou na tarefa   760
+42.405155 Estou na tarefa   761
+42.405236 Estou na tarefa   762
+42.405318 Estou na tarefa   763
+42.405399 Estou na tarefa   764
+42.405481 Estou na tarefa   765
+42.405662 Estou na tarefa   766
+42.405744 Estou na tarefa   767
+42.405825 Estou na tarefa   768
+42.405908 Estou na tarefa   769
+42.406057 Estou na tarefa   770
+42.406139 Estou na tarefa   771
+42.406220 Estou na tarefa   772
+42.406301 Estou na tarefa   773
+42.406382 Estou na tarefa   774
+42.406463 Estou na tarefa   775
+42.406544 Estou na tarefa   776
+42.406625 Estou na tarefa   777
+42.406706 Estou na tarefa   778
+42.406789 Estou na tarefa   779
+42.406870 Estou na tarefa   780
+42.407008 Estou na tarefa   781
+42.407091 Estou na tarefa   782
+42.407173 Estou na tarefa   783
+42.407255 Estou na tarefa   784
+42.407336 Estou na tarefa   785
+42.407417 Estou na tarefa   786
+42.407499 Estou na tarefa   787
+42.407580 Estou na tarefa   788
+42.407661 Estou na tarefa   789
+42.407743 Estou na tarefa   790
+42.407825 Estou na tarefa   791
+42.407969 Estou na tarefa   792
+42.408057 Estou na tarefa   793
+42.408139 Estou na tarefa   794
+42.408220 Estou na tarefa   795
+42.408301 Estou na tarefa   796
+42.408382 Estou na tarefa   797
+42.408464 Estou na tarefa   798
+42.408546 Estou na tarefa   799
+42.408627 Estou na tarefa   800
+42.408732 Estou na tarefa   801
+42.408815 Estou na tarefa   802
+42.409296 Estou na tarefa   803
+42.409381 Estou na tarefa   804
+42.409463 Estou na tarefa   805
+42.409544 Estou na tarefa   806
+42.409625 Estou na tarefa   807
+42.409707 Estou na tarefa   808
+42.409788 Estou na tarefa   809
+42.409962 Estou na tarefa   810
+42.410047 Estou na tarefa   811
+42.410128 Estou na tarefa   812
+42.410208 Estou na tarefa   813
+42.410289 Estou na tarefa   814
+42.410369 Estou na tarefa   815
+42.410450 Estou na tarefa   816
+42.410531 Estou na tarefa   817
+42.410612 Estou na tarefa   818
+42.410692 Estou na tarefa   819
+42.410772 Estou na tarefa   820
+42.410894 Estou na tarefa   821
+42.410978 Estou na tarefa   822
+42.411059 Estou na tarefa   823
+42.411140 Estou na tarefa   824
+42.411221 Estou na tarefa   825
+42.411302 Estou na tarefa   826
+42.411382 Estou na tarefa   827
+42.411463 Estou na tarefa   828
+42.411544 Estou na tarefa   829
+42.411624 Estou na tarefa   830
+42.411704 Estou na tarefa   831
+42.411784 Estou na tarefa   832
+42.411996 Estou na tarefa   833
+42.412080 Estou na tarefa   834
+42.412161 Estou na tarefa   835
+42.412244 Estou na tarefa   836
+42.412325 Estou na tarefa   837
+42.412408 Estou na tarefa   838
+42.412490 Estou na tarefa   839
+42.412573 Estou na tarefa   840
+42.412655 Estou na tarefa   841
+42.412737 Estou na tarefa   842
+42.412863 Estou na tarefa   843
+42.412954 Estou na tarefa   844
+42.413037 Estou na tarefa   845
+42.413118 Estou na tarefa   846
+42.413197 Estou na tarefa   847
+42.413277 Estou na tarefa   848
+42.413457 Estou na tarefa   849
+42.413539 Estou na tarefa   850
+42.413620 Estou na tarefa   851
+42.413700 Estou na tarefa   852
+42.413825 Estou na tarefa   853
+42.413880 Estou na tarefa   854
+42.413922 Estou na tarefa   855
+42.413962 Estou na tarefa   856
+42.414016 Estou na tarefa   857
+42.414059 Estou na tarefa   858
+42.414111 Estou na tarefa   859
+42.414158 Estou na tarefa   860
+42.414199 Estou na tarefa   861
+42.414239 Estou na tarefa   862
+42.414279 Estou na tarefa   863
+42.414317 Estou na tarefa   864
+42.414356 Estou na tarefa   865
+42.414397 Estou na tarefa   866
+42.414438 Estou na tarefa   867
+42.414475 Estou na tarefa   868
+42.414513 Estou na tarefa   869
+42.414549 Estou na tarefa   870
+42.414602 Estou na tarefa   871
+42.414662 Estou na tarefa   872
+42.414713 Estou na tarefa   873
+42.414887 Estou na tarefa   874
+42.414974 Estou na tarefa   875
+42.415061 Estou na tarefa   876
+42.415150 Estou na tarefa   877
+42.415231 Estou na tarefa   878
+42.415311 Estou na tarefa   879
+42.415393 Estou na tarefa   880
+42.415473 Estou na tarefa   881
+42.415553 Estou na tarefa   882
+42.415635 Estou na tarefa   883
+42.415848 Estou na tarefa   884
+42.415934 Estou na tarefa   885
+42.416016 Estou na tarefa   886
+42.416096 Estou na tarefa   887
+42.416186 Estou na tarefa   888
+42.416271 Estou na tarefa   889
+42.416351 Estou na tarefa   890
+42.416434 Estou na tarefa   891
+42.416534 Estou na tarefa   892
+42.416619 Estou na tarefa   893
+42.416796 Estou na tarefa   894
+42.416884 Estou na tarefa   895
+42.416988 Estou na tarefa   896
+42.417066 Estou na tarefa   897
+42.417150 Estou na tarefa   898
+42.417236 Estou na tarefa   899
+42.417459 Estou na tarefa   900
+42.417541 Estou na tarefa   901
+42.417620 Estou na tarefa   902
+42.417814 Estou na tarefa   903
+42.417910 Estou na tarefa   904
+42.417990 Estou na tarefa   905
+42.418070 Estou na tarefa   906
+42.418150 Estou na tarefa   907
+42.418230 Estou na tarefa   908
+42.418309 Estou na tarefa   909
+42.418389 Estou na tarefa   910
+42.418468 Estou na tarefa   911
+42.418547 Estou na tarefa   912
+42.418626 Estou na tarefa   913
+42.418755 Estou na tarefa   914
+42.418836 Estou na tarefa   915
+42.418916 Estou na tarefa   916
+42.418996 Estou na tarefa   917
+42.419075 Estou na tarefa   918
+42.419154 Estou na tarefa   919
+42.419234 Estou na tarefa   920
+42.419313 Estou na tarefa   921
+42.419393 Estou na tarefa   922
+42.419472 Estou na tarefa   923
+42.419552 Estou na tarefa   924
+42.419672 Estou na tarefa   925
+42.419755 Estou na tarefa   926
+42.419832 Estou na tarefa   927
+42.419908 Estou na tarefa   928
+42.420009 Estou na tarefa   929
+42.420087 Estou na tarefa   930
+42.420166 Estou na tarefa   931
+42.420232 Estou na tarefa   932
+42.420294 Estou na tarefa   933
+42.420356 Estou na tarefa   934
+42.420418 Estou na tarefa   935
+42.420479 Estou na tarefa   936
+42.420541 Estou na tarefa   937
+42.420651 Estou na tarefa   938
+42.420727 Estou na tarefa   939
+42.420790 Estou na tarefa   940
+42.420851 Estou na tarefa   941
+42.420913 Estou na tarefa   942
+42.420975 Estou na tarefa   943
+42.421036 Estou na tarefa   944
+42.421098 Estou na tarefa   945
+42.421225 Estou na tarefa   946
+42.421289 Estou na tarefa   947
+42.421351 Estou na tarefa   948
+42.421413 Estou na tarefa   949
+42.421474 Estou na tarefa   950
+42.421536 Estou na tarefa   951
+42.421705 Estou na tarefa   952
+42.421789 Estou na tarefa   953
+42.421869 Estou na tarefa   954
+42.421950 Estou na tarefa   955
+42.422030 Estou na tarefa   956
+42.422111 Estou na tarefa   957
+42.422192 Estou na tarefa   958
+42.422273 Estou na tarefa   959
+42.422352 Estou na tarefa   960
+42.422432 Estou na tarefa   961
+42.422512 Estou na tarefa   962
+42.422634 Estou na tarefa   963
+42.422716 Estou na tarefa   964
+42.422797 Estou na tarefa   965
+42.422878 Estou na tarefa   966
+42.422958 Estou na tarefa   967
+42.423038 Estou na tarefa   968
+42.423119 Estou na tarefa   969
+42.423200 Estou na tarefa   970
+42.423280 Estou na tarefa   971
+42.423361 Estou na tarefa   972
+42.423441 Estou na tarefa   973
+42.423595 Estou na tarefa   974
+42.423682 Estou na tarefa   975
+42.423763 Estou na tarefa   976
+42.423844 Estou na tarefa   977
+42.423925 Estou na tarefa   978
+42.424007 Estou na tarefa   979
+42.424088 Estou na tarefa   980
+42.424169 Estou na tarefa   981
+42.424249 Estou na tarefa   982
+42.424331 Estou na tarefa   983
+42.424411 Estou na tarefa   984
+42.424530 Estou na tarefa   985
+42.424622 Estou na tarefa   986
+42.424704 Estou na tarefa   987
+42.424785 Estou na tarefa   988
+42.424865 Estou na tarefa   989
+42.424946 Estou na tarefa   990
+42.425103 Estou na tarefa   991
+42.425188 Estou na tarefa   992
+42.425269 Estou na tarefa   993
+42.425349 Estou na tarefa   994
+42.425430 Estou na tarefa   995
+42.425592 Estou na tarefa   996
+42.425676 Estou na tarefa   997
+42.425757 Estou na tarefa   998
+42.425838 Estou na tarefa   999
+42.425919 Estou na tarefa  1000
+42.426000 main: fim

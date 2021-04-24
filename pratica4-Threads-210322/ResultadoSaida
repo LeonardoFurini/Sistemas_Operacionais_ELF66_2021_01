@@ -1,0 +1,164 @@
+Pratica 2 - 210308
+---------- Exercício 1 ----------
+16.288402 Main: criando thread 00
+16.288761 Main: criando thread 01
+16.289011 Main: criando thread 02
+16.289162 Main: criando thread 03
+16.289306 Main: criando thread 04
+16.289449 Main: criando thread 05
+16.289591 Main: criando thread 06
+16.289733 Main: criando thread 07
+16.289974 Main: criando thread 08
+16.290124 Main: criando thread 09
+16.290268 Main: criando thread 10
+16.290413 Main: criando thread 11
+16.290610 t04: Olá!
+16.291022 t05: Olá!
+16.291240 t06: Olá!
+16.291390 t03: Olá!
+16.291533 t07: Olá!
+16.291676 t08: Olá!
+16.291997 t09: Olá!
+16.292150 t10: Olá!
+16.293361 t02: Olá!
+16.293668 t01: Olá!
+16.294102 Main: criando thread 12
+16.294262 Main: criando thread 13
+16.294406 Main: criando thread 14
+16.294549 Main: criando thread 15
+16.294783 t00: Olá!
+16.294943 t15: Olá!
+16.295087 t14: Olá!
+16.295229 t13: Olá!
+16.295372 t12: Olá!
+16.295514 t11: Olá!
+16.295794 t04: Tchau!
+16.295955 t05: Tchau!
+16.296099 t03: Tchau!
+16.296538 t08: Tchau!
+16.296930 t10: Tchau!
+16.297137 t01: Tchau!
+16.297335 t15: Tchau!
+16.297526 t13: Tchau!
+16.297986 t11: Tchau!
+16.298187 t02: Tchau!
+16.298374 t14: Tchau!
+16.298645 t09: Tchau!
+16.298851 t12: Tchau!
+16.299040 t07: Tchau!
+16.299218 t00: Tchau!
+16.299393 t06: Tchau!
+---------- Exercício 2 ----------
+19.323060 Main: criando thread 00
+19.323330 Main: criando thread 01
+19.323424 Main: criando thread 02
+19.323512 Main: criando thread 03
+19.323600 Main: criando thread 04
+19.323688 Main: criando thread 05
+19.324384 Main: criando thread 06
+19.324707 Main: criando thread 07
+19.324853 Main: criando thread 08
+19.324950 Main: criando thread 09
+19.325039 Main: criando thread 10
+19.325126 Main: criando thread 11
+19.325214 Main: criando thread 12
+19.325301 Main: criando thread 13
+19.325388 Main: criando thread 14
+19.325475 Main: criando thread 15
+19.325564 Main: aguardando thread 00
+19.325653 t03: Olá!
+19.325842 t04: Olá!
+19.325933 t05: Olá!
+19.326002 t06: Olá!
+19.326069 t07: Olá!
+19.326190 t02: Olá!
+19.326287 t08: Olá!
+19.326376 t09: Olá!
+19.326462 t10: Olá!
+19.326550 t11: Olá!
+19.326640 t12: Olá!
+19.326818 t01: Olá!
+19.326920 t13: Olá!
+19.327012 t14: Olá!
+19.327101 t15: Olá!
+19.327192 t00: Olá!
+19.327280 t03: Tchau!
+19.327367 t04: Tchau!
+19.327456 t05: Tchau!
+19.327544 t07: Tchau!
+19.327633 t08: Tchau!
+19.327797 t10: Tchau!
+19.327881 t12: Tchau!
+19.327949 t13: Tchau!
+19.328017 t15: Tchau!
+19.328084 t09: Tchau!
+19.328151 t01: Tchau!
+19.328218 t00: Tchau!
+19.328401 t11: Tchau!
+19.328473 t06: Tchau!
+19.328541 t02: Tchau!
+19.328608 t14: Tchau!
+19.328721 Main: aguardando thread 01
+19.328806 Main: aguardando thread 02
+19.328875 Main: aguardando thread 03
+19.328942 Main: aguardando thread 04
+19.329010 Main: aguardando thread 05
+19.329077 Main: aguardando thread 06
+19.329144 Main: aguardando thread 07
+19.329211 Main: aguardando thread 08
+19.329279 Main: aguardando thread 09
+19.329346 Main: aguardando thread 10
+19.329413 Main: aguardando thread 11
+19.329481 Main: aguardando thread 12
+19.329548 Main: aguardando thread 13
+19.329615 Main: aguardando thread 14
+19.329725 Main: aguardando thread 15
+---------- Exercício 3 ----------
+22.346495 Main: criando thread 00
+22.346685 Main: criando thread 01
+22.346758 Main: criando thread 02
+22.346826 Main: criando thread 03
+22.346893 Main: criando thread 04
+22.346961 Main: criando thread 05
+22.347028 Main: criando thread 06
+22.347095 Main: criando thread 07
+22.347162 Main: criando thread 08
+22.347229 Main: criando thread 09
+22.347297 Main: criando thread 10
+22.347364 Main: criando thread 11
+22.347467 Main: criando thread 12
+22.347542 Main: criando thread 13
+22.347610 Main: criando thread 14
+22.347677 Main: criando thread 15
+22.347743 t03: Olá!   (x=01)
+22.347810 t04: Olá!   (x=02)
+22.347877 t05: Olá!   (x=03)
+22.348048 t06: Olá!   (x=04)
+22.348124 t02: Olá!   (x=05)
+22.348192 t07: Olá!   (x=06)
+22.348259 t08: Olá!   (x=07)
+22.348327 t09: Olá!   (x=08)
+22.348453 t10: Olá!   (x=09)
+22.348557 t11: Olá!   (x=10)
+22.348626 t12: Olá!   (x=11)
+22.348693 t01: Olá!   (x=12)
+22.348760 t13: Olá!   (x=13)
+22.348848 t14: Olá!   (x=14)
+22.348914 t15: Olá!   (x=15)
+22.348977 t00: Olá!   (x=16)
+22.349041 t03: Tchau! (x=17)
+22.349126 t04: Tchau! (x=18)
+22.349191 t06: Tchau! (x=19)
+22.349254 t07: Tchau! (x=20)
+22.349316 t09: Tchau! (x=21)
+22.349427 t11: Tchau! (x=22)
+22.349521 t01: Tchau! (x=23)
+22.349607 t14: Tchau! (x=24)
+22.349690 t00: Tchau! (x=25)
+22.349767 t08: Tchau! (x=26)
+22.349831 t02: Tchau! (x=27)
+22.349894 t15: Tchau! (x=28)
+22.349957 t13: Tchau! (x=29)
+22.350077 t10: Tchau! (x=30)
+22.350147 t12: Tchau! (x=31)
+22.350210 t05: Tchau! (x=32)
